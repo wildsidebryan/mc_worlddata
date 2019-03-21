@@ -1,0 +1,17 @@
+[18:51:19] [Server thread/INFO]: Unknown command
+[18:51:19] [Server thread/INFO]: <--[HERE]
+[18:51:22] [Server thread/INFO]: Unknown command
+[18:51:22] [Server thread/INFO]: /quit<--[HERE]
+[18:51:24] [Server thread/INFO]: Stopping the server
+[18:51:24] [Server thread/INFO]: Stopping server
+[18:51:24] [Server thread/INFO]: Saving players
+[18:51:24] [Server thread/INFO]: Saving worlds
+[18:51:24] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[18:51:24] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[18:51:24] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[18:51:24] [Server Shutdown Thread/INFO]: Stopping server
+[18:51:24] [Server Shutdown Thread/INFO]: Saving players
+[18:51:24] [Server Shutdown Thread/INFO]: Saving worlds
+[18:51:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[18:51:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[18:51:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
