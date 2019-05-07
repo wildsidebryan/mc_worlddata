@@ -1,3 +1,3 @@
-java -Xms3G -Xmx3G -jar "G:\New MC Server\server.jar" nogui
+java -Xms4G -Xmx4G -jar "minecraft_server.1.13.2.jar" nogui
 
 pause
