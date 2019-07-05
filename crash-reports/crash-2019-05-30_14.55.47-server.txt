@@ -1,0 +1,233 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 5/30/19 2:56 PM
+Description: Watching Server
+
+java.lang.Error
+	at com.google.common.util.concurrent.Futures.getUnchecked(Futures.java:1312)
+	at uc.b(SourceFile:280)
+	at uc.Y_(SourceFile:241)
+	at hw.a(SourceFile:238)
+	at ub.c(SourceFile:171)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:773)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at com.google.common.util.concurrent.Futures.getUnchecked(Futures.java:1312)
+	at uc.b(SourceFile:280)
+	at uc.Y_(SourceFile:241)
+	at hw.a(SourceFile:238)
+	at ub.c(SourceFile:171)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:773)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Epoll Server IO #7" Id=39 RUNNABLE
+	at io.netty.channel.epoll.EpollRecvByteAllocatorStreamingHandle.maybeMoreDataToRead(EpollRecvByteAllocatorStreamingHandle.java:33)
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.epollInFinally(AbstractEpollChannel.java:399)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:836)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #6" Id=38 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #5" Id=37 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #4" Id=36 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #3" Id=35 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"File IO Thread" Id=34 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at cdw.c(SourceFile:59)
+	at cdw.run(SourceFile:35)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #2" Id=30 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #1" Id=29 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Java2D Disposer" Id=27 WAITING on java.lang.ref.ReferenceQueue$Lock@3bec9df2
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@3bec9df2
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at sun.java2d.Disposer.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Watchdog" Id=26 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at sp.run(SourceFile:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Query Listener #1" Id=25 RUNNABLE
+	at java.net.PlainDatagramSocketImpl.receive0(Native Method)
+	-  locked java.net.PlainDatagramSocketImpl@352b74ff
+	at java.net.AbstractPlainDatagramSocketImpl.receive(Unknown Source)
+	-  locked java.net.PlainDatagramSocketImpl@352b74ff
+	at java.net.DatagramSocket.receive(Unknown Source)
+	-  locked java.net.DatagramPacket@3114f682
+	-  locked java.net.DatagramSocket@59a9016d
+	at we.run(SourceFile:269)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Epoll Server IO #0" Id=24 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"ObjectCleanerThread" Id=23 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@74167ec4
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@74167ec4
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=22 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@2bca7eb9
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@45286bb3
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=21 RUNNABLE
+
+
+"Server thread" Id=19 RUNNABLE
+	at com.google.common.util.concurrent.Futures.getUnchecked(Futures.java:1312)
+	at uc.b(SourceFile:280)
+	at uc.Y_(SourceFile:241)
+	at hw.a(SourceFile:238)
+	at ub.c(SourceFile:171)
+	-  locked java.util.Collections$SynchronizedRandomAccessList@531e3572
+	at net.minecraft.server.MinecraftServer.b(SourceFile:773)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+	...
+
+
+"Server Infinisleeper" Id=18 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at so$1.run(SourceFile:94)
+
+
+"Snooper Timer" Id=17 WAITING on java.util.TaskQueue@1439818b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@1439818b
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@6cfe1a03
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@6cfe1a03
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@6a0d91dc
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@6a0d91dc
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at sp.run(SourceFile:61)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.2
+	Operating System: Linux (amd64) version 5.0.9-301.fc30.x86_64
+	Java Version: 1.8.0_211, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3047660424 bytes (2906 MB) / 4285530112 bytes (4087 MB) up to 4285530112 bytes (4087 MB)
+	JVM Flags: 2 total; -Xms4G -Xmx4G
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
