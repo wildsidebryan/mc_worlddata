@@ -596,3 +596,966 @@ save-all
 stop
 [13:32:34] [Server thread/INFO]: Stopping the server
 [13:32:34] [Server thread/INFO]: Stopping server
+[13:02:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:02:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:02:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:02:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:02:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:02:54] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[13:02:54] [Server thread/INFO]: Loading properties
+[13:02:54] [Server thread/INFO]: Default game type: SURVIVAL
+[13:02:54] [Server thread/INFO]: Generating keypair
+[13:02:54] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[13:02:54] [Server thread/INFO]: Using epoll channel type
+[13:02:54] [Server thread/INFO]: Preparing level "Derpaderp"
+[13:02:54] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:02:57] [Server thread/INFO]: Loaded 6 recipes
+[13:02:57] [Server thread/INFO]: Loaded 811 advancements
+[13:02:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[13:02:58] [Server thread/INFO]: Preparing spawn area: 83%
+[13:02:58] [Server thread/INFO]: Time elapsed: 1430 ms
+[13:02:58] [Server thread/INFO]: Done (4.390s)! For help, type "help"
+[13:02:58] [Server thread/INFO]: Starting GS4 status listener
+[13:02:58] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+[13:08:51] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/cactus_green' in progress file ./Derpaderp/advancements/a96cb956-c5b4-476a-bc0b-7bf83eace2b7.json - it doesn't exist anymore?
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cactus_green removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[13:08:52] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[13:08:52] [Server thread/INFO]: WildsideBryan[/192.168.1.156:53046] logged in with entity id 542 at (815.218306020792, 63.0, 521.3108148787443)
+[13:08:52] [Server thread/INFO]: WildsideBryan joined the game
+[13:13:39] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/1527, l='Derpaderp', x=844.50, y=69.37, z=515.54]
+[13:14:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/1632, l='Derpaderp', x=844.65, y=69.41, z=515.66]
+[13:14:31] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/1760, l='Derpaderp', x=844.71, y=69.49, z=515.69]
+[13:16:10] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2044, l='Derpaderp', x=844.59, y=69.58, z=515.31]
+[13:29:25] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3693, l='Derpaderp', x=844.70, y=69.63, z=515.54]
+[13:30:12] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3815, l='Derpaderp', x=844.25, y=69.35, z=515.73]
+[13:34:07] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4317, l='Derpaderp', x=844.39, y=69.34, z=515.39]
+[13:49:53] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/6094, l='Derpaderp', x=844.38, y=69.39, z=515.47]
+[13:51:09] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/6244, l='Derpaderp', x=844.34, y=69.41, z=515.58]
+[13:51:58] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/6338, l='Derpaderp', x=844.70, y=69.47, z=515.62]
+[13:52:05] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/6348, l='Derpaderp', x=844.31, y=69.41, z=515.67]
+[13:54:20] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/6620, l='Derpaderp', x=844.37, y=69.38, z=515.34]
+[14:12:07] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/8823, l='Derpaderp', x=844.31, y=69.27, z=515.28]
+[14:12:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/8849, l='Derpaderp', x=844.31, y=69.45, z=515.67]
+[14:12:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/8871, l='Derpaderp', x=844.28, y=69.66, z=515.55]
+[14:13:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/9035, l='Derpaderp', x=844.67, y=69.46, z=515.71]
+[14:13:48] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/9066, l='Derpaderp', x=844.69, y=69.74, z=515.25]
+[14:13:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/9078, l='Derpaderp', x=844.40, y=69.55, z=515.60]
+[14:25:15] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/10493, l='Derpaderp', x=844.61, y=69.50, z=515.37]
+[14:26:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/10686, l='Derpaderp', x=844.32, y=69.34, z=515.42]
+[14:28:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/10819, l='Derpaderp', x=844.36, y=69.68, z=515.68]
+[14:28:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/10955, l='Derpaderp', x=844.61, y=69.64, z=515.45]
+[14:35:51] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/12193, l='Derpaderp', x=844.55, y=69.34, z=515.54]
+[14:37:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/12396, l='Derpaderp', x=844.73, y=69.42, z=515.43]
+[14:37:14] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/12426, l='Derpaderp', x=844.73, y=69.66, z=515.29]
+[14:39:05] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/12684, l='Derpaderp', x=844.36, y=69.38, z=515.37]
+[14:40:41] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/12901, l='Derpaderp', x=844.63, y=69.56, z=515.60]
+[15:08:03] [Server thread/WARN]: WildsideBryan moved too quickly! -16.073522440019588,2.697295496372888,-8.482257726923308
+[15:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4399ms or 87 ticks behind
+[15:10:12] [Server thread/WARN]: WildsideBryan moved too quickly! -16.6049136250831,3.8957418444671674,4.123837524300825
+[15:12:10] [Server thread/WARN]: WildsideBryan moved too quickly! -16.657941541467153,3.5882928714508466,6.148118938447055
+[15:13:06] [Server thread/WARN]: WildsideBryan moved too quickly! -4.829716750525222,-2.352793794427768,-16.648668257066788
+[15:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
+[15:18:09] [Server thread/WARN]: WildsideBryan moved too quickly! -17.51809422099177,-2.000954625523363,0.45691826749202846
+[15:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[15:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3204ms or 64 ticks behind
+[15:58:15] [Server thread/WARN]: WildsideBryan moved too quickly! -17.201521613005752,-2.3597866784666337,-1.214425343057428
+[15:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2937ms or 58 ticks behind
+[16:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3467ms or 69 ticks behind
+[16:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2957ms or 59 ticks behind
+[16:04:46] [Server thread/WARN]: WildsideBryan moved too quickly! 10.607462293428398,6.463676395657046,13.282857767385394
+[16:07:13] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/109206, l='Derpaderp', x=-10008.51, y=79.23, z=9245.39]
+[16:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[16:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
+[16:38:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[16:43:32] [Server thread/WARN]: WildsideBryan moved too quickly! 10.997331634711372,-2.4631880365133156,-13.911536926578265
+[16:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
+[16:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[16:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[17:13:40] [Server thread/WARN]: WildsideBryan moved too quickly! 10.066863005452547,0.0,-0.012081259489491458
+[17:24:23] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/139168, l='Derpaderp', x=844.33, y=69.60, z=515.54]
+[17:43:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/141658, l='Derpaderp', x=844.69, y=69.34, z=515.67]
+[17:44:20] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/141799, l='Derpaderp', x=844.59, y=69.42, z=515.66]
+[17:44:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/141924, l='Derpaderp', x=844.42, y=69.42, z=515.27]
+[17:45:10] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/141993, l='Derpaderp', x=844.27, y=69.34, z=515.35]
+[17:45:38] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/142049, l='Derpaderp', x=844.71, y=69.35, z=515.57]
+[17:53:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/143079, l='Derpaderp', x=844.29, y=69.68, z=515.43]
+[17:54:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/143194, l='Derpaderp', x=844.38, y=69.52, z=515.43]
+[17:54:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/143227, l='Derpaderp', x=844.36, y=69.42, z=515.48]
+[17:57:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/143637, l='Derpaderp', x=844.29, y=69.54, z=515.63]
+[17:57:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/143734, l='Derpaderp', x=844.46, y=69.50, z=515.36]
+[18:06:22] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/145075, l='Derpaderp', x=844.27, y=69.38, z=515.49]
+[18:06:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/145105, l='Derpaderp', x=844.60, y=69.74, z=515.50]
+[18:07:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/145303, l='Derpaderp', x=844.55, y=69.57, z=515.42]
+[18:11:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/145707, l='Derpaderp', x=844.33, y=69.40, z=515.51]
+[18:11:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/145739, l='Derpaderp', x=844.62, y=69.41, z=515.71]
+[18:19:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/146997, l='Derpaderp', x=844.49, y=69.51, z=515.53]
+[18:19:27] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147059, l='Derpaderp', x=844.69, y=69.56, z=515.39]
+[18:20:09] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147146, l='Derpaderp', x=844.60, y=69.74, z=515.67]
+[18:20:10] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147147, l='Derpaderp', x=844.31, y=69.45, z=515.33]
+[18:22:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147412, l='Derpaderp', x=844.27, y=69.49, z=515.34]
+[18:23:44] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147611, l='Derpaderp', x=844.61, y=69.42, z=515.71]
+[18:23:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147629, l='Derpaderp', x=844.32, y=69.34, z=515.29]
+[18:24:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147689, l='Derpaderp', x=844.44, y=69.45, z=515.65]
+[18:24:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147729, l='Derpaderp', x=844.35, y=69.51, z=515.56]
+[18:24:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/147757, l='Derpaderp', x=844.53, y=69.55, z=515.35]
+[18:35:14] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149021, l='Derpaderp', x=844.42, y=69.59, z=515.71]
+[18:36:33] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149220, l='Derpaderp', x=844.35, y=69.27, z=515.31]
+[18:36:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149242, l='Derpaderp', x=844.28, y=69.71, z=515.49]
+[18:37:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149339, l='Derpaderp', x=844.34, y=69.37, z=515.53]
+[18:37:45] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149364, l='Derpaderp', x=844.40, y=69.63, z=515.61]
+[18:37:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149394, l='Derpaderp', x=844.56, y=69.57, z=515.42]
+[18:38:30] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149485, l='Derpaderp', x=844.71, y=69.52, z=515.44]
+[18:39:28] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149626, l='Derpaderp', x=844.32, y=69.35, z=515.64]
+[18:40:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149739, l='Derpaderp', x=844.29, y=69.46, z=515.52]
+[18:40:27] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/149757, l='Derpaderp', x=844.60, y=69.26, z=515.44]
+[18:46:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/150554, l='Derpaderp', x=844.68, y=69.64, z=515.47]
+[18:48:06] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/150737, l='Derpaderp', x=844.43, y=69.36, z=515.35]
+[18:49:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/150913, l='Derpaderp', x=844.62, y=69.55, z=515.29]
+[18:50:11] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/151073, l='Derpaderp', x=844.38, y=69.71, z=515.28]
+[18:51:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/151596, l='Derpaderp', x=844.55, y=69.58, z=515.72]
+[19:07:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/153735, l='Derpaderp', x=844.65, y=69.54, z=515.41]
+[19:08:32] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/153854, l='Derpaderp', x=844.44, y=69.72, z=515.59]
+[19:08:50] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/153892, l='Derpaderp', x=844.41, y=69.27, z=515.44]
+[19:09:06] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/153936, l='Derpaderp', x=844.41, y=69.41, z=515.36]
+[19:11:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/154223, l='Derpaderp', x=844.32, y=69.58, z=515.59]
+[19:19:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155339, l='Derpaderp', x=844.56, y=69.28, z=515.60]
+[19:19:51] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155393, l='Derpaderp', x=844.57, y=69.35, z=515.47]
+[19:20:14] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155443, l='Derpaderp', x=844.71, y=69.25, z=515.57]
+[19:21:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155588, l='Derpaderp', x=844.32, y=69.74, z=515.62]
+[19:21:23] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155604, l='Derpaderp', x=844.34, y=69.56, z=515.62]
+[19:22:23] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155712, l='Derpaderp', x=844.68, y=69.42, z=515.60]
+[19:23:01] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155789, l='Derpaderp', x=844.69, y=69.47, z=515.39]
+[19:23:21] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155862, l='Derpaderp', x=844.62, y=69.40, z=515.57]
+[19:23:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/155967, l='Derpaderp', x=844.67, y=69.57, z=515.62]
+[19:30:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/156839, l='Derpaderp', x=844.67, y=69.68, z=515.52]
+[19:31:09] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/156997, l='Derpaderp', x=844.50, y=69.73, z=515.71]
+[19:31:39] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/157077, l='Derpaderp', x=844.62, y=69.73, z=515.40]
+[19:33:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/157289, l='Derpaderp', x=844.35, y=69.25, z=515.46]
+[19:34:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/157419, l='Derpaderp', x=844.68, y=69.46, z=515.33]
+[19:35:00] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/157504, l='Derpaderp', x=844.62, y=69.35, z=515.57]
+[19:49:42] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/159571, l='Derpaderp', x=844.44, y=69.55, z=515.72]
+[19:50:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/159654, l='Derpaderp', x=844.73, y=69.68, z=515.52]
+[19:51:16] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/159888, l='Derpaderp', x=844.50, y=69.56, z=515.48]
+[19:51:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/159961, l='Derpaderp', x=844.27, y=69.33, z=515.48]
+[19:51:53] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/159983, l='Derpaderp', x=844.60, y=69.64, z=515.43]
+[19:52:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/160120, l='Derpaderp', x=844.66, y=69.43, z=515.56]
+[20:07:29] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/162249, l='Derpaderp', x=844.73, y=69.70, z=515.40]
+[20:08:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/162320, l='Derpaderp', x=844.40, y=69.61, z=515.30]
+[20:09:00] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/162458, l='Derpaderp', x=844.44, y=69.56, z=515.42]
+[20:10:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/162621, l='Derpaderp', x=844.37, y=69.64, z=515.64]
+[20:11:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/162714, l='Derpaderp', x=844.27, y=69.47, z=515.46]
+[20:21:41] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/164118, l='Derpaderp', x=844.52, y=69.52, z=515.31]
+[20:22:28] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/164250, l='Derpaderp', x=844.26, y=69.55, z=515.26]
+[20:24:16] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/164555, l='Derpaderp', x=844.33, y=69.71, z=515.32]
+[20:24:37] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/164608, l='Derpaderp', x=844.69, y=69.30, z=515.33]
+[20:48:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/168309, l='Derpaderp', x=844.40, y=69.41, z=515.69]
+[20:49:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/168443, l='Derpaderp', x=844.65, y=69.64, z=515.55]
+[20:50:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/168691, l='Derpaderp', x=844.74, y=69.34, z=515.53]
+[20:53:52] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/169145, l='Derpaderp', x=844.37, y=69.59, z=515.62]
+[21:09:21] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/171268, l='Derpaderp', x=844.48, y=69.60, z=515.53]
+[21:10:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/171491, l='Derpaderp', x=844.45, y=69.65, z=515.64]
+[21:11:42] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/171658, l='Derpaderp', x=844.34, y=69.29, z=515.30]
+[21:13:23] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/171890, l='Derpaderp', x=844.38, y=69.35, z=515.67]
+[21:13:44] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/171931, l='Derpaderp', x=844.44, y=69.36, z=515.33]
+[21:29:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/174054, l='Derpaderp', x=844.59, y=69.28, z=515.65]
+[21:30:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/174306, l='Derpaderp', x=844.34, y=69.53, z=515.26]
+[21:31:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/174339, l='Derpaderp', x=844.66, y=69.32, z=515.48]
+[21:32:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/174491, l='Derpaderp', x=844.28, y=69.47, z=515.71]
+[21:33:00] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/174573, l='Derpaderp', x=844.59, y=69.26, z=515.64]
+[21:33:22] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/174627, l='Derpaderp', x=844.45, y=69.56, z=515.62]
+[21:45:51] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/176597, l='Derpaderp', x=844.35, y=69.57, z=515.47]
+[21:46:42] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/176732, l='Derpaderp', x=844.61, y=69.52, z=515.29]
+[21:47:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/176893, l='Derpaderp', x=844.66, y=69.48, z=515.55]
+[21:49:52] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/177170, l='Derpaderp', x=844.58, y=69.66, z=515.51]
+[21:50:23] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/177233, l='Derpaderp', x=844.63, y=69.42, z=515.39]
+[21:59:31] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/178403, l='Derpaderp', x=844.29, y=69.42, z=515.61]
+[22:00:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/178492, l='Derpaderp', x=844.35, y=69.25, z=515.36]
+[22:00:45] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/178623, l='Derpaderp', x=844.73, y=69.30, z=515.72]
+[22:01:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/178701, l='Derpaderp', x=844.28, y=69.51, z=515.72]
+[22:01:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/178783, l='Derpaderp', x=844.55, y=69.69, z=515.50]
+[22:03:25] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/179027, l='Derpaderp', x=844.56, y=69.55, z=515.28]
+[22:03:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/179080, l='Derpaderp', x=844.74, y=69.49, z=515.29]
+[22:21:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/180989, l='Derpaderp', x=844.35, y=69.37, z=515.66]
+[22:21:09] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/180990, l='Derpaderp', x=844.42, y=69.46, z=515.50]
+[22:21:42] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181059, l='Derpaderp', x=844.47, y=69.68, z=515.50]
+[22:22:19] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181126, l='Derpaderp', x=844.62, y=69.28, z=515.36]
+[22:22:30] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181148, l='Derpaderp', x=844.47, y=69.33, z=515.50]
+[22:22:37] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181166, l='Derpaderp', x=844.25, y=69.49, z=515.29]
+[22:24:38] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181475, l='Derpaderp', x=844.69, y=69.49, z=515.45]
+[22:24:44] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181482, l='Derpaderp', x=844.50, y=69.50, z=515.42]
+[22:24:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/181491, l='Derpaderp', x=844.72, y=69.57, z=515.26]
+[22:40:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/183689, l='Derpaderp', x=844.39, y=69.30, z=515.37]
+[22:40:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/183708, l='Derpaderp', x=844.27, y=69.46, z=515.49]
+[22:40:45] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/183727, l='Derpaderp', x=844.36, y=69.48, z=515.34]
+[22:41:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/183804, l='Derpaderp', x=844.41, y=69.70, z=515.44]
+[22:43:13] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/184128, l='Derpaderp', x=844.64, y=69.51, z=515.40]
+[22:43:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/184197, l='Derpaderp', x=844.47, y=69.59, z=515.44]
+[22:44:12] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/184324, l='Derpaderp', x=844.72, y=69.75, z=515.64]
+[22:46:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/184701, l='Derpaderp', x=844.28, y=69.58, z=515.32]
+[22:53:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/185868, l='Derpaderp', x=844.28, y=69.60, z=515.67]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187280, l='Derpaderp', x=844.51, y=69.40, z=515.40]
+[23:02:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187434, l='Derpaderp', x=844.54, y=69.40, z=515.64]
+[23:03:12] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187461, l='Derpaderp', x=844.64, y=69.49, z=515.64]
+[23:03:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187522, l='Derpaderp', x=844.58, y=69.38, z=515.51]
+[23:03:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187561, l='Derpaderp', x=844.47, y=69.71, z=515.61]
+[23:04:48] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187750, l='Derpaderp', x=844.57, y=69.70, z=515.40]
+[23:05:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187777, l='Derpaderp', x=844.43, y=69.69, z=515.68]
+[23:05:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/187964, l='Derpaderp', x=844.48, y=69.67, z=515.57]
+[23:06:15] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/188023, l='Derpaderp', x=844.30, y=69.26, z=515.54]
+[23:21:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/189878, l='Derpaderp', x=844.54, y=69.32, z=515.35]
+[23:23:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190261, l='Derpaderp', x=844.71, y=69.46, z=515.28]
+[23:23:32] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190314, l='Derpaderp', x=844.52, y=69.27, z=515.26]
+[23:24:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190406, l='Derpaderp', x=844.48, y=69.27, z=515.36]
+[23:24:22] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190455, l='Derpaderp', x=844.59, y=69.60, z=515.66]
+[23:24:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190520, l='Derpaderp', x=844.57, y=69.73, z=515.54]
+[23:26:05] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190695, l='Derpaderp', x=844.41, y=69.75, z=515.49]
+[23:27:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/190905, l='Derpaderp', x=844.58, y=69.27, z=515.66]
+[23:42:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/192717, l='Derpaderp', x=844.66, y=69.29, z=515.34]
+[23:43:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/192963, l='Derpaderp', x=844.69, y=69.70, z=515.57]
+[23:43:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/192988, l='Derpaderp', x=844.54, y=69.49, z=515.53]
+[23:44:29] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/193050, l='Derpaderp', x=844.68, y=69.70, z=515.57]
+[23:45:48] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/193234, l='Derpaderp', x=844.37, y=69.40, z=515.52]
+[00:01:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/195116, l='Derpaderp', x=844.43, y=69.64, z=515.43]
+[00:02:41] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/195243, l='Derpaderp', x=844.56, y=69.65, z=515.46]
+[00:03:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/195370, l='Derpaderp', x=844.40, y=69.50, z=515.56]
+[00:06:15] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/195633, l='Derpaderp', x=844.66, y=69.32, z=515.46]
+[00:21:51] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/197504, l='Derpaderp', x=844.29, y=69.60, z=515.29]
+[00:22:07] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/197541, l='Derpaderp', x=844.52, y=69.72, z=515.60]
+[00:22:31] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/197587, l='Derpaderp', x=844.48, y=69.31, z=515.60]
+[00:23:22] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/197692, l='Derpaderp', x=844.49, y=69.70, z=515.49]
+[00:23:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/197728, l='Derpaderp', x=844.69, y=69.33, z=515.36]
+[00:24:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/197904, l='Derpaderp', x=844.27, y=69.41, z=515.27]
+[00:26:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/198168, l='Derpaderp', x=844.38, y=69.66, z=515.68]
+[00:41:19] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200056, l='Derpaderp', x=844.45, y=69.69, z=515.38]
+[00:41:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200123, l='Derpaderp', x=844.67, y=69.52, z=515.58]
+[00:42:39] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200262, l='Derpaderp', x=844.71, y=69.29, z=515.73]
+[00:43:05] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200305, l='Derpaderp', x=844.72, y=69.69, z=515.55]
+[00:43:11] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200322, l='Derpaderp', x=844.26, y=69.70, z=515.55]
+[00:45:15] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200578, l='Derpaderp', x=844.72, y=69.41, z=515.46]
+[00:45:30] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200619, l='Derpaderp', x=844.37, y=69.29, z=515.43]
+[00:45:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200670, l='Derpaderp', x=844.69, y=69.66, z=515.53]
+[00:46:22] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/200729, l='Derpaderp', x=844.48, y=69.48, z=515.66]
+[01:04:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/202842, l='Derpaderp', x=844.35, y=69.52, z=515.29]
+[01:04:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/202860, l='Derpaderp', x=844.48, y=69.37, z=515.28]
+[01:05:11] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/202895, l='Derpaderp', x=844.69, y=69.64, z=515.37]
+[01:05:37] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/202958, l='Derpaderp', x=844.36, y=69.27, z=515.51]
+[01:05:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/202978, l='Derpaderp', x=844.73, y=69.34, z=515.50]
+[01:19:31] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/204608, l='Derpaderp', x=844.43, y=69.68, z=515.71]
+[01:21:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/204914, l='Derpaderp', x=844.50, y=69.73, z=515.72]
+[01:23:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/205192, l='Derpaderp', x=844.26, y=69.55, z=515.42]
+[01:23:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/205269, l='Derpaderp', x=844.40, y=69.55, z=515.34]
+[01:24:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/205294, l='Derpaderp', x=844.53, y=69.55, z=515.39]
+[01:24:32] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/205362, l='Derpaderp', x=844.45, y=69.64, z=515.39]
+[01:25:30] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/205516, l='Derpaderp', x=844.68, y=69.65, z=515.54]
+[01:26:06] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/205617, l='Derpaderp', x=844.38, y=69.69, z=515.67]
+[01:42:06] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/207850, l='Derpaderp', x=844.44, y=69.71, z=515.29]
+[01:42:40] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/207919, l='Derpaderp', x=844.47, y=69.57, z=515.57]
+[01:43:41] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/208027, l='Derpaderp', x=844.61, y=69.51, z=515.31]
+[01:44:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/208157, l='Derpaderp', x=844.27, y=69.74, z=515.47]
+[01:44:53] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/208187, l='Derpaderp', x=844.63, y=69.53, z=515.70]
+[01:45:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/208270, l='Derpaderp', x=844.42, y=69.68, z=515.41]
+[01:46:27] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/208360, l='Derpaderp', x=844.62, y=69.64, z=515.30]
+[01:52:32] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/209570, l='Derpaderp', x=844.43, y=69.28, z=515.28]
+[01:54:52] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/209881, l='Derpaderp', x=844.39, y=69.57, z=515.26]
+[01:55:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/209936, l='Derpaderp', x=844.37, y=69.73, z=515.71]
+[01:55:27] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/209964, l='Derpaderp', x=844.73, y=69.69, z=515.29]
+[01:55:52] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/210020, l='Derpaderp', x=844.67, y=69.56, z=515.43]
+[01:56:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/210155, l='Derpaderp', x=844.26, y=69.50, z=515.66]
+[01:57:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/210223, l='Derpaderp', x=844.33, y=69.63, z=515.26]
+[01:58:10] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/210278, l='Derpaderp', x=844.62, y=69.33, z=515.56]
+[01:59:45] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/210649, l='Derpaderp', x=844.34, y=69.32, z=515.64]
+[02:08:06] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/211821, l='Derpaderp', x=844.28, y=69.64, z=515.52]
+[02:08:32] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/211895, l='Derpaderp', x=844.40, y=69.71, z=515.57]
+[02:09:44] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/212093, l='Derpaderp', x=844.75, y=69.32, z=515.71]
+[02:09:58] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/212131, l='Derpaderp', x=844.52, y=69.42, z=515.33]
+[02:10:33] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/212202, l='Derpaderp', x=844.60, y=69.26, z=515.54]
+[02:12:07] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/212422, l='Derpaderp', x=844.44, y=69.57, z=515.58]
+[02:12:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/212537, l='Derpaderp', x=844.69, y=69.64, z=515.47]
+[02:29:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/214990, l='Derpaderp', x=844.53, y=69.60, z=515.64]
+[02:29:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/215140, l='Derpaderp', x=844.56, y=69.75, z=515.43]
+[02:30:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/215306, l='Derpaderp', x=844.67, y=69.63, z=515.41]
+[02:31:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/215388, l='Derpaderp', x=844.71, y=69.73, z=515.26]
+[02:31:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/215414, l='Derpaderp', x=844.34, y=69.39, z=515.38]
+[02:31:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/215456, l='Derpaderp', x=844.36, y=69.41, z=515.26]
+[02:49:28] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/218342, l='Derpaderp', x=844.49, y=69.58, z=515.39]
+[02:49:42] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/218366, l='Derpaderp', x=844.41, y=69.67, z=515.49]
+[02:51:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/218627, l='Derpaderp', x=844.74, y=69.49, z=515.27]
+[02:51:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/218669, l='Derpaderp', x=844.70, y=69.49, z=515.58]
+[02:53:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/218795, l='Derpaderp', x=844.44, y=69.47, z=515.63]
+[02:53:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/218921, l='Derpaderp', x=844.51, y=69.66, z=515.30]
+[03:08:00] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220533, l='Derpaderp', x=844.74, y=69.44, z=515.52]
+[03:09:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220746, l='Derpaderp', x=844.55, y=69.30, z=515.51]
+[03:09:14] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220757, l='Derpaderp', x=844.28, y=69.36, z=515.56]
+[03:09:53] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220841, l='Derpaderp', x=844.49, y=69.47, z=515.56]
+[03:10:01] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220875, l='Derpaderp', x=844.38, y=69.46, z=515.35]
+[03:10:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220904, l='Derpaderp', x=844.67, y=69.69, z=515.66]
+[03:10:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220941, l='Derpaderp', x=844.57, y=69.32, z=515.65]
+[03:10:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/220987, l='Derpaderp', x=844.73, y=69.65, z=515.52]
+[03:12:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/221205, l='Derpaderp', x=844.44, y=69.65, z=515.57]
+[03:12:40] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/221268, l='Derpaderp', x=844.70, y=69.29, z=515.41]
+[03:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[03:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[04:38:02] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/241156, l='Derpaderp', x=44.17, y=63.00, z=189.58]
+[04:43:45] [Server thread/WARN]: WildsideBryan moved too quickly! -2.142549465304314,0.07544406518948676,-10.196732589521282
+[05:26:30] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/246363, l='Derpaderp', x=844.57, y=69.63, z=515.40]
+[05:26:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/246377, l='Derpaderp', x=844.74, y=69.47, z=515.43]
+[05:27:06] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/246567, l='Derpaderp', x=844.31, y=69.53, z=515.70]
+[05:27:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/246761, l='Derpaderp', x=844.40, y=69.35, z=515.44]
+[05:28:36] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/246827, l='Derpaderp', x=844.58, y=69.63, z=515.62]
+[05:28:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/246872, l='Derpaderp', x=844.44, y=69.53, z=515.36]
+[05:43:41] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/248676, l='Derpaderp', x=844.72, y=69.68, z=515.68]
+[05:46:40] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/249051, l='Derpaderp', x=844.38, y=69.30, z=515.36]
+[06:05:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/252087, l='Derpaderp', x=844.57, y=69.56, z=515.35]
+[06:06:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/252139, l='Derpaderp', x=844.62, y=69.49, z=515.42]
+[06:06:31] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/252201, l='Derpaderp', x=844.44, y=69.32, z=515.38]
+[06:06:37] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/252228, l='Derpaderp', x=844.71, y=69.72, z=515.45]
+[06:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[06:19:22] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/415474, l='Derpaderp', x=-55.63, y=62.00, z=-54.70]
+[06:26:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/475129, l='Derpaderp', x=844.25, y=69.27, z=515.35]
+[06:28:01] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/475247, l='Derpaderp', x=844.42, y=69.30, z=515.40]
+[06:28:08] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/475259, l='Derpaderp', x=844.66, y=69.61, z=515.49]
+[06:28:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/475269, l='Derpaderp', x=844.42, y=69.74, z=515.36]
+[06:29:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/475385, l='Derpaderp', x=844.72, y=69.51, z=515.35]
+[06:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[07:03:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/728034, l='Derpaderp', x=844.63, y=69.44, z=515.49]
+[07:05:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/728215, l='Derpaderp', x=844.40, y=69.75, z=515.70]
+[07:06:28] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/728388, l='Derpaderp', x=844.45, y=69.32, z=515.50]
+[07:06:39] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/728412, l='Derpaderp', x=844.27, y=69.51, z=515.63]
+[07:07:01] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/728450, l='Derpaderp', x=844.38, y=69.62, z=515.75]
+[07:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[08:49:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/1412581, l='Derpaderp', x=844.32, y=69.70, z=515.47]
+[08:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[09:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[11:32:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2136252, l='Derpaderp', x=844.66, y=69.62, z=515.69]
+[11:33:30] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2136385, l='Derpaderp', x=844.74, y=69.73, z=515.50]
+[11:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[11:55:34] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2146021, l='Derpaderp', x=844.36, y=69.60, z=515.36]
+[11:56:57] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2146195, l='Derpaderp', x=844.61, y=69.69, z=515.46]
+[11:57:05] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2146214, l='Derpaderp', x=844.69, y=69.53, z=515.63]
+[12:11:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2147804, l='Derpaderp', x=844.47, y=69.48, z=515.60]
+[12:12:31] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2147912, l='Derpaderp', x=844.72, y=69.65, z=515.66]
+[12:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[15:12:51] [Server thread/WARN]: WildsideBryan moved wrongly!
+[15:25:18] [Server thread/WARN]: WildsideBryan moved wrongly!
+[15:45:32] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2949062, l='Derpaderp', x=844.69, y=69.67, z=515.40]
+[15:46:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2949131, l='Derpaderp', x=844.32, y=69.63, z=515.41]
+[15:47:15] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2949224, l='Derpaderp', x=844.26, y=69.67, z=515.54]
+[15:48:03] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/2949343, l='Derpaderp', x=844.47, y=69.43, z=515.69]
+[15:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2464ms or 49 ticks behind
+[16:16:30] [Server thread/WARN]: WildsideBryan moved wrongly!
+[16:28:47] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3043408, l='Derpaderp', x=844.34, y=69.30, z=515.43]
+[16:44:17] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3045104, l='Derpaderp', x=844.71, y=69.66, z=515.46]
+[16:44:25] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3045123, l='Derpaderp', x=844.59, y=69.59, z=515.32]
+[16:47:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3045682, l='Derpaderp', x=844.53, y=69.66, z=515.74]
+[16:48:04] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3045835, l='Derpaderp', x=844.71, y=69.29, z=515.62]
+[16:48:24] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3045903, l='Derpaderp', x=844.66, y=69.27, z=515.51]
+[16:55:58] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3046807, l='Derpaderp', x=844.42, y=69.52, z=515.68]
+[16:58:18] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3047083, l='Derpaderp', x=844.49, y=69.35, z=515.34]
+[16:59:02] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3047190, l='Derpaderp', x=844.36, y=69.48, z=515.54]
+[16:59:35] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3047252, l='Derpaderp', x=844.66, y=69.47, z=515.68]
+[17:14:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3048731, l='Derpaderp', x=844.59, y=69.47, z=515.42]
+[17:15:24] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3048778, l='Derpaderp', x=844.40, y=69.55, z=515.41]
+[17:17:43] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3049050, l='Derpaderp', x=844.32, y=69.29, z=515.71]
+[17:18:48] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3049162, l='Derpaderp', x=844.42, y=69.39, z=515.57]
+[17:18:55] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3049182, l='Derpaderp', x=844.63, y=69.59, z=515.58]
+[17:35:27] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3051142, l='Derpaderp', x=844.51, y=69.52, z=515.45]
+[17:35:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3051204, l='Derpaderp', x=844.71, y=69.58, z=515.29]
+[17:36:00] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3051227, l='Derpaderp', x=844.68, y=69.70, z=515.63]
+[17:38:46] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3051531, l='Derpaderp', x=844.32, y=69.53, z=515.40]
+[17:49:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[18:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[19:33:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/3536301, l='Derpaderp', x=-56.71, y=62.00, z=-54.24]
+[19:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[20:12:07] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3768618, l='Derpaderp', x=844.71, y=69.48, z=515.65]
+[20:13:16] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3768732, l='Derpaderp', x=844.34, y=69.50, z=515.74]
+[20:19:12] [Server thread/WARN]: WildsideBryan moved too quickly! 0.0,-10.260000096559565,0.0
+[20:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[20:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[21:03:52] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3996006, l='Derpaderp', x=844.55, y=69.51, z=515.28]
+[21:03:56] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/3996029, l='Derpaderp', x=844.26, y=69.47, z=515.48]
+[21:04:17] [Server thread/WARN]: WildsideBryan moved too quickly! -0.0016770107570778237,0.0,-10.273074535212686
+[21:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[21:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2447ms or 48 ticks behind
+[22:16:26] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4433341, l='Derpaderp', x=844.63, y=69.55, z=515.67]
+[22:17:12] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:17:12] [Server thread/INFO]: WildsideBryan left the game
+[07:25:43] [User Authenticator #2/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[07:25:43] [Server thread/INFO]: WildsideBryan[/192.168.1.156:51800] logged in with entity id 4433443 at (856.2490930727796, 61.0, 512.5629966922011)
+[07:25:43] [Server thread/INFO]: WildsideBryan joined the game
+[07:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[07:33:39] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4447777, l='Derpaderp', x=844.26, y=69.43, z=515.41]
+[07:33:49] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4447836, l='Derpaderp', x=844.33, y=69.63, z=515.63]
+[07:33:54] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4447852, l='Derpaderp', x=844.64, y=69.48, z=515.74]
+[07:48:59] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4449445, l='Derpaderp', x=844.41, y=69.28, z=515.49]
+[07:49:44] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4449535, l='Derpaderp', x=844.70, y=69.51, z=515.75]
+[07:50:39] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4449640, l='Derpaderp', x=844.49, y=69.31, z=515.42]
+[07:52:23] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/4449851, l='Derpaderp', x=844.40, y=69.30, z=515.41]
+[08:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[08:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[09:11:56] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[09:11:56] [Server thread/INFO]: WildsideBryan left the game
+[09:24:15] [User Authenticator #3/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[09:24:15] [Server thread/INFO]: WildsideBryan[/192.168.1.108:35176] logged in with entity id 5175222 at (-56.262088173675465, 189.5, -55.61962668771202)
+[09:24:15] [Server thread/INFO]: WildsideBryan joined the game
+[09:24:48] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[09:24:48] [Server thread/INFO]: WildsideBryan left the game
+[09:25:34] [User Authenticator #4/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[09:25:34] [Server thread/INFO]: WildsideBryan[/192.168.1.156:52211] logged in with entity id 5182073 at (-56.262088173675465, 189.5, -55.61962668771202)
+[09:25:34] [Server thread/INFO]: WildsideBryan joined the game
+[09:25:50] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[09:25:50] [Server thread/INFO]: WildsideBryan left the game
+[09:27:47] [User Authenticator #5/INFO]: Disconnecting /192.168.1.108:35222: Failed to verify username!
+[09:27:47] [User Authenticator #5/ERROR]: Username 'WildsideBryan' tried to join with an invalid session
+[09:27:47] [Server thread/INFO]: /192.168.1.108:35222 lost connection: Failed to verify username!
+[09:27:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e323c14[id=<null>,name=WildsideBryan,properties={},legacy=false] (/192.168.1.108:35224) lost connection: Disconnected
+[09:28:10] [User Authenticator #6/INFO]: Disconnecting /192.168.1.108:35230: Failed to verify username!
+[09:28:10] [User Authenticator #6/ERROR]: Username 'WildsideBryan' tried to join with an invalid session
+[09:28:10] [Server thread/INFO]: /192.168.1.108:35230 lost connection: Failed to verify username!
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B                                                                                                                        [09:31:09] [User Authenticator #7/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[09:31:09] [Server thread/INFO]: WildsideBryan[/192.168.1.108:35272] logged in with entity id 5185983 at (-56.1943244710873, 189.5, -55.62142955296421)
+[09:31:09] [Server thread/INFO]: WildsideBryan joined the game
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B                                                                                                    ^[[1;5A^[[1;5A^[[1;5A^[[1;5A^[[1;5A^[[1;5B^[[1;5B^[[1;5B^[[1;5B^[[1;5B^[[1;2A^[[1;2A^[[1;2A^[[1;2A^[[1;2A^[[1;2B^[[1;2B^[[1;2B^[[1;2B^[[1;2B                                                                                                                                            [10:59:12] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/6390220, l='Derpaderp', x=-58.30, y=62.00, z=-57.42]
+[12:17:56] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/7452458, l='Derpaderp', x=-53.70, y=62.00, z=-57.02]
+[12:18:45] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/7464825, l='Derpaderp', x=-58.30, y=62.00, z=-56.66]
+[12:23:22] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/7535882, l='Derpaderp', x=-53.70, y=62.00, z=-57.29]
+[12:50:53] [User Authenticator #8/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[12:50:53] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[12:50:53] [Server thread/INFO]: WildsideBryan left the game
+[12:50:53] [Server thread/WARN]: handleDisconnection() called twice
+[12:50:53] [Server thread/INFO]: WildsideBryan[/192.168.1.108:37628] logged in with entity id 7902292 at (-56.1943244710873, 189.5, -55.62142955296421)
+[12:50:53] [Server thread/INFO]: WildsideBryan joined the game
+[12:52:15] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[12:52:15] [Server thread/INFO]: WildsideBryan left the game
+[12:54:59] [User Authenticator #9/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[12:54:59] [Server thread/INFO]: WildsideBryan[/192.168.1.108:37690] logged in with entity id 7919609 at (-56.172020528660575, 189.5, -55.597820060715335)
+[12:54:59] [Server thread/INFO]: WildsideBryan joined the game
+[13:03:05] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/8041662, l='Derpaderp', x=-55.14, y=62.00, z=-59.30]
+
+[14:38:51] [Server thread/INFO]: Unknown command
+[14:38:51] [Server thread/INFO]: <--[HERE]
+reload
+[14:38:55] [Server thread/INFO]: Reloading!
+[14:38:55] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:38:55] [Server thread/INFO]: Loaded 6 recipes
+[14:38:55] [Server thread/INFO]: Loaded 811 advancements
+[15:40:58] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[15:40:58] [Server thread/INFO]: WildsideBryan left the game
+[15:41:16] [User Authenticator #10/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[15:41:16] [Server thread/INFO]: WildsideBryan[/192.168.1.108:39660] logged in with entity id 10117610 at (-56.07980963650328, 189.5, -55.54817575261411)
+[15:41:16] [Server thread/INFO]: WildsideBryan joined the game
+[15:41:19] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[15:41:19] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[15:41:57] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[15:42:02] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[15:42:07] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[15:42:12] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[15:42:12] [Server thread/INFO]: Saved the game
+[15:42:12] [Server thread/INFO]: Stopping the server
+[15:42:12] [Server thread/INFO]: Stopping server
+[15:42:12] [Server thread/INFO]: Saving players
+[15:42:12] [Server thread/INFO]: Saving worlds
+[15:42:12] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[15:42:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:12] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[15:42:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:42:12] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[15:42:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[15:42:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:42:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[15:42:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:42:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:42:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:42:21] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[15:42:21] [Server thread/INFO]: Loading properties
+[15:42:21] [Server thread/INFO]: Default game type: SURVIVAL
+[15:42:21] [Server thread/INFO]: Generating keypair
+[15:42:21] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[15:42:21] [Server thread/INFO]: Using epoll channel type
+[15:42:21] [Server thread/INFO]: Preparing level "Derpaderp"
+[15:42:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:42:22] [Server thread/INFO]: Loaded 6 recipes
+[15:42:22] [Server thread/INFO]: Loaded 811 advancements
+[15:42:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:42:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:24] [Server thread/INFO]: Preparing spawn area: 0%
+[15:42:26] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:42:26] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[15:42:26] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[15:42:26] [Server thread/INFO]: Time elapsed: 3510 ms
+[15:42:26] [Server thread/INFO]: Done (5.101s)! For help, type "help"
+[15:42:26] [Server thread/INFO]: Starting GS4 status listener
+[15:42:26] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+[15:46:03] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[15:46:04] [Server thread/INFO]: WildsideBryan[/192.168.1.108:39740] logged in with entity id 446 at (-56.07980963650328, 189.5, -55.54817575261411)
+[15:46:04] [Server thread/INFO]: WildsideBryan joined the game
+[18:44:17] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[18:44:17] [Server thread/INFO]: WildsideBryan left the game
+[19:04:15] [User Authenticator #2/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[19:04:15] [Server thread/INFO]: WildsideBryan[/192.168.1.156:53348] logged in with entity id 2393620 at (-56.07980963650328, 189.5, -55.54817575261411)
+[19:04:15] [Server thread/INFO]: WildsideBryan joined the game
+[19:20:44] [Server thread/WARN]: WildsideBryan moved too quickly! -0.7217171727529959,-14.505656546277862,-0.012962132207860577
+[19:22:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[19:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[19:47:30] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/2622741, l='Derpaderp', x=-58.30, y=62.00, z=-56.60]
+[20:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[21:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[21:52:38] [Server thread/WARN]: WildsideBryan moved too quickly! 1.1365030614116165,-2.063155216312836,-17.204884689606843
+[21:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[21:56:27] [Server thread/WARN]: WildsideBryan moved too quickly! 0.13312546616992904,5.170588422779147,-17.401582826610138
+[21:57:41] [Server thread/WARN]: WildsideBryan moved too quickly! 1.2496691514982672,-2.182849549311797,-17.30309707631386
+[21:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[22:01:02] [Server thread/WARN]: WildsideBryan moved too quickly! -18.013912745789753,2.4085524412916186,0.0026490931304579135
+[22:01:20] [Server thread/WARN]: WildsideBryan moved too quickly! -17.239842523044672,5.531062325432558,1.4139020739039552
+[22:02:43] [Server thread/WARN]: WildsideBryan moved too quickly! -17.203157079534776,-2.1893876354670283,-1.0039311477939918
+[22:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[22:03:02] [Server thread/WARN]: WildsideBryan moved too quickly! -18.13240260823204,1.6197619470378157,9.857025506789796E-4
+[22:05:23] [Server thread/WARN]: Skipping Entity with id 
+[22:06:42] [Server thread/WARN]: WildsideBryan moved too quickly! 0.35119701730218367,-0.605389255896398,18.307148547521138
+[22:07:10] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:07:10] [Server thread/INFO]: WildsideBryan left the game
+[22:26:46] [User Authenticator #3/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:26:47] [Server thread/INFO]: WildsideBryan[/192.168.1.156:53998] logged in with entity id 3726740 at (-4948.904077487736, 177.0, -8341.937167898595)
+[22:26:47] [Server thread/INFO]: WildsideBryan joined the game
+[22:27:46] [Server thread/WARN]: WildsideBryan moved too quickly! 17.328176030320265,-2.2993446873994827,-0.39878669466816064
+[22:27:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[22:32:49] [Server thread/WARN]: WildsideBryan moved too quickly! -0.2718619704937737,-2.2112932182957223,17.721250918978512
+[22:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[22:34:28] [Server thread/WARN]: WildsideBryan moved too quickly! 6.68018558816857,4.476207038323395,16.268386400857707
+[22:37:21] [Server thread/WARN]: WildsideBryan moved too quickly! 13.962694475008902,3.132241983922057,11.458888007261521
+[22:37:52] [Server thread/WARN]: WildsideBryan moved too quickly! 15.180974513376896,3.054936385329057,8.551865384236407
+[22:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3144ms or 62 ticks behind
+[22:39:43] [Server thread/WARN]: Skipping Entity with id 
+[22:49:03] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:49:03] [Server thread/INFO]: WildsideBryan left the game
+[23:20:36] [User Authenticator #4/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[23:20:36] [Server thread/INFO]: WildsideBryan[/192.168.1.156:54232] logged in with entity id 3816687 at (856.1665332394995, 61.0, 512.0232101438057)
+[23:20:36] [Server thread/INFO]: WildsideBryan joined the game
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.030949557750275858,0.0,-10.398511884809054
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.01813328826936811,0.0,-11.465612927505589
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.0022025883487231113,0.0,-12.55122968879509
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.0162296804690385,0.0,-13.655034591189164
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.036623634695345686,0.0,-14.776695477575522
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.05838854088382561,0.0,-15.915883592975227
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.0810064704656952,0.0,-17.072267213308905
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.10396965907831657,0.0,-18.245515228903315
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.1267803775541978,0.0,-19.43529712847797
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.14895080490819623,0.0,-20.641282987177256
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.17000290450525313,0.0,-21.863143458567265
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.1895296365245116,0.0,-23.100551495327352
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.20707091712561976,0.0,-24.35317958380599
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.2222373824160826,0.0,-25.620703895870207
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.23464768907014388,0.0,-26.902802468034118
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.24392840397618443,0.0,-28.199155179067183
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.24977504696424546,0.0,-29.50944873484047
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.2518283988264898,0.0,-30.83336714032789
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.24973684894983705,0.0,-32.17059612711492
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.24321726176945901,0.0,-33.52083002927991
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.23199254254339507,0.0,-34.88376592282604
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.2157915486668145,0.0,-36.25910358201888
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.1943490008974038,0.0,-37.64654542542105
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.16740539682184874,0.0,-39.045796466731716
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.1347069260530276,0.0,-40.45656427033444
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.09600538805456438,0.0,-41.878558900283544
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -0.05111852557294583,0.0,-43.311503602872136
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 8.546706225303069E-4,0.0,-44.75498452182194
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.061448078835340425,0.0,-46.2084119629499
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.13273424805568368,0.0,-47.67095831228613
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.2173903925454681,0.0,-49.14141674445888
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.3184474003342217,0.0,-50.61813966180218
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.43929626951575074,0.0,-52.098857136283144
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.583481425140107,0.0,-53.58056698031116
+[23:32:54] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! 0.7545031979744579,0.0,-55.05941395898628
+[23:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[23:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[00:41:38] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[00:41:38] [Server thread/INFO]: WildsideBryan left the game
+[00:43:38] [User Authenticator #5/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[00:43:38] [Server thread/INFO]: WildsideBryan[/192.168.1.108:45412] logged in with entity id 4589670 at (-56.1941439617165, 189.5, -55.60782679777162)
+[00:43:38] [Server thread/INFO]: WildsideBryan joined the game
+[05:57:40] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/8818916, l='Derpaderp', x=-55.42, y=62.00, z=-59.30]
+[09:14:38] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/11463984, l='Derpaderp', x=-55.70, y=62.00, z=-59.30]
+[11:14:19] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13067871, l='Derpaderp', x=-54.79, y=62.00, z=-54.61]
+[11:35:44] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/13359628, l='Derpaderp', x=-57.58, y=62.00, z=-54.74]
+[13:00:05] [User Authenticator #6/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[13:00:05] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[13:00:05] [Server thread/INFO]: WildsideBryan left the game
+[13:00:05] [Server thread/WARN]: handleDisconnection() called twice
+[13:00:05] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63894] logged in with entity id 14502760 at (-56.1941439617165, 189.5, -55.60782679777162)
+[13:00:05] [Server thread/INFO]: WildsideBryan joined the game
+[13:45:56] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[13:45:56] [Server thread/INFO]: WildsideBryan left the game
+[13:45:59] [User Authenticator #7/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[13:45:59] [Server thread/INFO]: WildsideBryan[/192.168.1.156:64167] logged in with entity id 15043751 at (-55.42356753555306, 189.5, -55.298612936995575)
+[13:45:59] [Server thread/INFO]: WildsideBryan joined the game
+[15:20:23] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/15284792, l='Derpaderp', x=-58.30, y=62.00, z=-56.68]
+[15:42:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[16:48:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[16:48:18] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[16:48:18] [Server thread/INFO]: WildsideBryan left the game
+[16:50:26] [User Authenticator #8/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[16:50:26] [Server thread/INFO]: WildsideBryan[/192.168.1.108:55478] logged in with entity id 15779291 at (-56.14127133241406, 189.5, -55.885612322819455)
+[16:50:26] [Server thread/INFO]: WildsideBryan joined the game
+[17:29:16] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/16303516, l='Derpaderp', x=-56.30, y=62.00, z=-59.30]
+[18:03:37] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/16754540, l='Derpaderp', x=-55.50, y=62.00, z=-59.30]
+[18:42:10] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/17272466, l='Derpaderp', x=-56.33, y=62.00, z=-59.30]
+[20:49:45] [User Authenticator #9/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[20:49:45] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[20:49:45] [Server thread/INFO]: WildsideBryan left the game
+[20:49:45] [Server thread/INFO]: WildsideBryan[/192.168.1.156:50402] logged in with entity id 19008954 at (-55.86977141715209, 189.5, -55.937939867950114)
+[20:49:45] [Server thread/INFO]: WildsideBryan joined the game
+[20:59:51] [Server thread/WARN]: WildsideBryan moved too quickly! 8.691019233216593,15.435717787349716,4.976488500746655
+[21:03:05] [Server thread/WARN]: WildsideBryan moved too quickly! 10.044007206995502,3.045543199977317,14.815390102789024
+[21:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4269ms or 85 ticks behind
+[21:03:55] [Server thread/WARN]: WildsideBryan moved too quickly! 13.032253385758395,-2.4886254532449357,11.69419827129741
+[21:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[21:08:10] [Server thread/WARN]: WildsideBryan moved too quickly! 11.728912902986849,-1.888482354955741,12.70388071180696
+[21:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[21:09:08] [Server thread/WARN]: Skipping Entity with id 
+[21:11:36] [Server thread/WARN]: WildsideBryan moved too quickly! 11.219834908457415,-2.0026789248890964,14.331507773820704
+[21:13:12] [Server thread/WARN]: WildsideBryan moved too quickly! -18.074849661354165,-1.5645775615286794,-0.8879603126461006
+[21:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[21:15:20] [Server thread/WARN]: WildsideBryan moved too quickly! -18.055062389887098,1.2499152279129646,-2.118134282056417
+[21:16:15] [Server thread/WARN]: Skipping Entity with id 
+[21:18:14] [Server thread/WARN]: WildsideBryan moved too quickly! 0.08229803083213483,-0.9399030389668184,-17.88318265730959
+[21:23:15] [Server thread/WARN]: WildsideBryan moved too quickly! 0.0,1.2590705201814387,-18.17823853224081
+[21:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[21:27:55] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:27:55] [Server thread/INFO]: WildsideBryan left the game
+[21:28:51] [User Authenticator #10/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[21:28:51] [Server thread/INFO]: WildsideBryan[/192.168.1.156:50608] logged in with entity id 19140995 at (7652.299999974668, 68.0000002, 1661.299999974668)
+[21:28:51] [Server thread/INFO]: WildsideBryan joined the game
+[21:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[21:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2948ms or 58 ticks behind
+[21:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3147ms or 62 ticks behind
+[21:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[21:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4005ms or 80 ticks behind
+[21:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[21:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[21:59:04] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:59:04] [Server thread/INFO]: WildsideBryan left the game
+[22:16:01] [User Authenticator #11/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:16:02] [Server thread/INFO]: WildsideBryan[/192.168.1.156:50750] logged in with entity id 19154998 at (846.8389042234367, 120.0, 205.3236093662452)
+[22:16:02] [Server thread/INFO]: WildsideBryan joined the game
+[22:41:15] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:41:15] [Server thread/INFO]: WildsideBryan left the game
+[22:52:36] [User Authenticator #12/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:52:36] [Server thread/INFO]: WildsideBryan[/192.168.1.156:51011] logged in with entity id 19163489 at (837.299999974668, 63.0000002, 519.299999974668)
+[22:52:36] [Server thread/INFO]: WildsideBryan joined the game
+[00:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
+[01:22:00] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[01:22:00] [Server thread/INFO]: WildsideBryan left the game
+[01:24:16] [User Authenticator #13/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:24:16] [Server thread/INFO]: WildsideBryan[/192.168.1.108:60674] logged in with entity id 19847841 at (-56.0957379082421, 189.5, -55.75783756867073)
+[01:24:16] [Server thread/INFO]: WildsideBryan joined the game
+[01:25:16] [User Authenticator #14/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:25:16] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[01:25:16] [Server thread/INFO]: WildsideBryan left the game
+[01:25:16] [Server thread/INFO]: WildsideBryan[/192.168.1.156:51693] logged in with entity id 19860548 at (-54.23811638876167, 189.0, -54.92971511677971)
+[01:25:16] [Server thread/INFO]: WildsideBryan joined the game
+[01:26:16] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[01:26:16] [Server thread/INFO]: WildsideBryan left the game
+[01:28:30] [User Authenticator #15/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:28:30] [Server thread/INFO]: WildsideBryan[/192.168.1.108:60724] logged in with entity id 19872943 at (-56.16730427512185, 189.5, -55.9183393462529)
+[01:28:30] [Server thread/INFO]: WildsideBryan joined the game
+[04:52:51] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/22634407, l='Derpaderp', x=-58.30, y=62.00, z=-57.41]
+[07:35:50] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/24840067, l='Derpaderp', x=-58.30, y=62.00, z=-56.68]
+[08:55:49] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/25916366, l='Derpaderp', x=-53.70, y=62.00, z=-56.59]
+[10:16:59] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/27023781, l='Derpaderp', x=-56.51, y=62.00, z=-59.30]
+[11:53:06] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/28308922, l='Derpaderp', x=-53.70, y=62.00, z=-57.31]
+[11:58:50] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/28396598, l='Derpaderp', x=-53.74, y=62.00, z=-56.49]
+[11:58:51] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/28396750, l='Derpaderp', x=-53.70, y=62.00, z=-57.75]
+[14:55:51] [User Authenticator #16/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[14:55:51] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[14:55:51] [Server thread/INFO]: WildsideBryan left the game
+[14:55:52] [Server thread/INFO]: WildsideBryan[/192.168.1.108:41090] logged in with entity id 30777087 at (-55.7455481056396, 189.5, -55.47190599335548)
+[14:55:52] [Server thread/INFO]: WildsideBryan joined the game
+[15:56:29] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/31595929, l='Derpaderp', x=-56.44, y=62.00, z=-59.15]
+[18:19:22] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/33525544, l='Derpaderp', x=-53.70, y=62.00, z=-56.71]
+[18:39:29] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/33793628, l='Derpaderp', x=-53.70, y=62.00, z=-57.34]
+[21:35:09] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/36154610, l='Derpaderp', x=-55.27, y=62.00, z=-54.70]
+[21:36:01] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:36:01] [Server thread/INFO]: WildsideBryan left the game
+[21:36:45] [User Authenticator #17/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[21:36:45] [Server thread/INFO]: WildsideBryan[/192.168.1.156:65167] logged in with entity id 36167776 at (-56.00440205365471, 189.5, -55.804624032274084)
+[21:36:45] [Server thread/INFO]: WildsideBryan joined the game
+[21:43:49] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:43:49] [Server thread/INFO]: WildsideBryan left the game
+[21:45:35] [User Authenticator #18/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[21:45:35] [Server thread/INFO]: WildsideBryan[/192.168.1.156:65271] logged in with entity id 36263586 at (-55.48667188943987, 189.5, -55.17629358029125)
+[21:45:35] [Server thread/INFO]: WildsideBryan joined the game
+[21:53:38] [Server thread/WARN]: WildsideBryan moved too quickly! 0.007950154270758958,0.20000004768371582,10.082896006785596
+[23:20:57] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[23:20:57] [Server thread/INFO]: WildsideBryan left the game
+[23:23:03] [User Authenticator #19/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[23:23:03] [Server thread/INFO]: WildsideBryan[/192.168.1.108:46588] logged in with entity id 36380163 at (837.6113479444567, 63.0, 519.5939517472749)
+[23:23:03] [Server thread/INFO]: WildsideBryan joined the game
+[11:22:35] [Server thread/WARN]: Fetching packet for removed entity ats['Air'/36462546, l='Derpaderp', x=838.64, y=65.60, z=514.42]
+[20:12:43] [User Authenticator #20/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[20:12:43] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[20:12:43] [Server thread/INFO]: WildsideBryan left the game
+[20:12:43] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63035] logged in with entity id 36522200 at (837.6113479444567, 63.0, 519.5939517472749)
+[20:12:43] [Server thread/INFO]: WildsideBryan joined the game
+[22:15:52] [Server thread/INFO]: WildsideBryan lost connection: Timed out
+[22:15:52] [Server thread/INFO]: WildsideBryan left the game
+[22:38:50] [User Authenticator #21/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:38:50] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63616] logged in with entity id 36541984 at (856.7454846029534, 61.0, 512.0889848087375)
+[22:38:50] [Server thread/INFO]: WildsideBryan joined the game
+[02:04:38] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[02:04:38] [Server thread/INFO]: WildsideBryan left the game
+[02:04:48] [User Authenticator #22/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[02:04:48] [Server thread/INFO]: WildsideBryan[/192.168.1.156:64207] logged in with entity id 36572299 at (799.335809785635, 63.0, 518.0587866150836)
+[02:04:48] [Server thread/INFO]: WildsideBryan joined the game
+[06:25:26] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[06:25:26] [Server thread/INFO]: WildsideBryan left the game
+[12:57:36] [User Authenticator #23/INFO]: UUID of player GhostedNothing is 705d65d3-4ea3-4861-8005-5cbfde66afe6
+[12:57:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./Derpaderp/advancements/705d65d3-4ea3-4861-8005-5cbfde66afe6.json - it doesn't exist anymore?
+[12:57:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file ./Derpaderp/advancements/705d65d3-4ea3-4861-8005-5cbfde66afe6.json - it doesn't exist anymore?
+[12:57:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file ./Derpaderp/advancements/705d65d3-4ea3-4861-8005-5cbfde66afe6.json - it doesn't exist anymore?
+[12:57:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file ./Derpaderp/advancements/705d65d3-4ea3-4861-8005-5cbfde66afe6.json - it doesn't exist anymore?
+[12:57:36] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[12:57:36] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[12:57:36] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[12:57:36] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[12:57:36] [Server thread/INFO]: GhostedNothing[/192.168.1.101:38904] logged in with entity id 36610763 at (863.0229097100062, 64.0, 534.7473114393943)
+[12:57:36] [Server thread/INFO]: GhostedNothing joined the game
+[13:11:18] [User Authenticator #24/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[13:11:18] [Server thread/INFO]: WildsideBryan[/192.168.1.156:50144] logged in with entity id 36613187 at (837.5988494131242, 63.0, 519.6773429856714)
+[13:11:18] [Server thread/INFO]: WildsideBryan joined the game
+[13:23:38] [Server thread/WARN]: WildsideBryan moved too quickly! 4.673947308804145,-2.9267185975781302,-17.984735427066425
+[13:25:21] [Server thread/WARN]: Fetching packet for removed entity ats['Gold Nugget'/36617054, l='Derpaderp', x=764.30, y=68.00, z=681.70]
+[13:40:12] [Server thread/INFO]: <GhostedNothing> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[13:50:51] [Server thread/INFO]: <GhostedNothing> zzz
+[14:25:43] [Server thread/INFO]: GhostedNothing lost connection: Disconnected
+[14:25:43] [Server thread/INFO]: GhostedNothing left the game
+[15:33:32] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[15:33:32] [Server thread/INFO]: WildsideBryan left the game
+[16:53:18] [User Authenticator #25/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[16:53:18] [Server thread/INFO]: WildsideBryan[/192.168.1.156:51074] logged in with entity id 36643891 at (839.8116686315052, 63.0, 519.7497943958451)
+[16:53:18] [Server thread/INFO]: WildsideBryan joined the game
+[17:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4976ms or 99 ticks behind
+[17:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[17:58:49] [Server thread/WARN]: Fetching packet for removed entity ats['Gold Nugget'/36658694, l='Derpaderp', x=760.70, y=68.00, z=681.30]
+[21:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[00:18:00] [Server thread/WARN]: Fetching packet for removed entity ats['Carrot'/36718413, l='Derpaderp', x=844.62, y=67.48, z=521.50]
+[00:30:44] [Server thread/INFO]: WildsideBryan lost connection: Timed out
+[00:30:44] [Server thread/INFO]: WildsideBryan left the game
+[01:36:16] [User Authenticator #26/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:36:16] [Server thread/INFO]: WildsideBryan[/192.168.1.156:61107] logged in with entity id 36720010 at (853.1016391355049, 61.0, 511.7449969207078)
+[01:36:16] [Server thread/INFO]: WildsideBryan joined the game
+[03:13:48] [Server thread/WARN]: WildsideBryan moved too quickly! -0.6487000583988447,0.0,-9.996204858474584
+[08:58:48] [Server thread/WARN]: WildsideBryan moved too quickly! 0.45606088422971425,15.711026424919666,-9.86682777758051
+[12:16:37] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[12:16:37] [Server thread/INFO]: WildsideBryan left the game
+[16:37:32] [User Authenticator #27/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[16:37:32] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63215] logged in with entity id 36854416 at (838.3073224990623, 63.0, 520.5901765203072)
+[16:37:32] [Server thread/INFO]: WildsideBryan joined the game
+[17:43:02] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[17:43:02] [Server thread/INFO]: WildsideBryan left the game
+[17:48:34] [User Authenticator #28/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[17:48:34] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63390] logged in with entity id 36867335 at (823.9884790119022, 64.0, 731.1560773874976)
+[17:48:34] [Server thread/INFO]: WildsideBryan joined the game
+[17:49:04] [Server thread/INFO]: WildsideBryan lost connection: Timed out
+[17:49:04] [Server thread/INFO]: WildsideBryan left the game
+[17:49:14] [User Authenticator #29/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[17:49:14] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63408] logged in with entity id 36867445 at (827.2485106193897, 64.0, 732.0186835996443)
+[17:49:14] [Server thread/INFO]: WildsideBryan joined the game
+[18:09:45] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[18:09:45] [Server thread/INFO]: WildsideBryan left the game
+[18:11:34] [User Authenticator #30/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[18:11:34] [Server thread/INFO]: WildsideBryan[/192.168.1.108:60128] logged in with entity id 36872167 at (852.3426997060526, 61.0, 512.2218373447504)
+[18:11:34] [Server thread/INFO]: WildsideBryan joined the game
+[21:16:38] [User Authenticator #31/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[21:16:38] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[21:16:38] [Server thread/INFO]: WildsideBryan left the game
+[21:16:38] [Server thread/INFO]: WildsideBryan[/192.168.1.156:63951] logged in with entity id 36891249 at (854.1319864475914, 61.0, 511.95338193028977)
+[21:16:38] [Server thread/INFO]: WildsideBryan joined the game
+[22:52:57] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:52:57] [Server thread/INFO]: WildsideBryan left the game
+[22:54:58] [User Authenticator #32/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:54:58] [Server thread/INFO]: WildsideBryan[/192.168.1.108:34844] logged in with entity id 36906713 at (762.7898143064549, 65.0, 677.7725152735635)
+[22:54:58] [Server thread/INFO]: WildsideBryan joined the game
+[01:17:44] [User Authenticator #33/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:17:44] [Server thread/INFO]: WildsideBryan lost connection: You logged in from another location
+[01:17:44] [Server thread/INFO]: WildsideBryan left the game
+[01:17:44] [Server thread/INFO]: WildsideBryan[/192.168.1.156:64625] logged in with entity id 36932098 at (762.7898143064549, 65.0, 677.7725152735635)
+[01:17:44] [Server thread/INFO]: WildsideBryan joined the game
+[04:44:40] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[04:44:40] [Server thread/INFO]: WildsideBryan left the game
+[19:17:47] [User Authenticator #34/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[19:17:47] [Server thread/INFO]: WildsideBryan[/192.168.1.156:64028] logged in with entity id 36960049 at (837.299999974668, 63.0000002, 519.299999974668)
+[19:17:47] [Server thread/INFO]: WildsideBryan joined the game
+[20:37:58] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.6629126836513,33.07840000152588,-813.5739099967748
+[20:37:58] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.6629126836513,33.07840000152588,-813.5739099967748
+[20:37:58] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.6629126836513,33.07840000152588,-813.5739099967748
+[20:38:00] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:38:00] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:57:43] [Server thread/WARN]: WildsideBryan moved too quickly! 12.51324325466112,-1.4730507395255046,-12.435952312230256
+[20:58:51] [Server thread/WARN]: WildsideBryan moved too quickly! -2.7487032004528373,-1.1972027970017507,-17.27611701375713
+[20:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4607ms or 92 ticks behind
+[21:00:07] [Server thread/WARN]: WildsideBryan moved too quickly! 2.519788599783169,-0.19578003456956594,-18.686209420137857
+[21:00:19] [Server thread/WARN]: WildsideBryan moved too quickly! -1.7841435365630787,-0.4402641395620748,-18.16270797458128
+[21:00:33] [Server thread/WARN]: WildsideBryan moved too quickly! -15.035711637640816,0.3332733694648766,-9.197292739518161
+[21:03:54] [Server thread/WARN]: WildsideBryan moved too quickly! -1.211185730307534,7.5810176172077774,16.174351788159697
+[21:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[21:05:23] [Server thread/WARN]: WildsideBryan moved too quickly! -1.3508969262984465,0.8386333482292656,18.169358716131455
+[21:05:24] [Server thread/WARN]: WildsideBryan moved too quickly! -1.4350186067372306,2.70802806179492,17.936338042016814
+[21:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3578ms or 71 ticks behind
+[21:12:22] [Server thread/INFO]: WildsideBryan has completed the challenge [Adventuring Time]
+[21:13:10] [Server thread/WARN]: WildsideBryan moved too quickly! -1.5177337602654006,-0.08449633898229081,17.545292807846636
+[21:13:34] [Server thread/WARN]: WildsideBryan moved too quickly! 18.32482986530613,0.006927121384066481,0.5487256302494643
+[21:14:00] [Server thread/WARN]: WildsideBryan moved too quickly! 17.876340619630355,-2.0331077554544947,-0.521180008090596
+[21:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[21:19:03] [Server thread/WARN]: WildsideBryan moved too quickly! 16.97872062208171,-1.4262277204659313,-5.632720822253759
+[21:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[21:44:05] [Server thread/WARN]: WildsideBryan moved too quickly! -15.455187917732474,-1.1668546336403836,-9.224504116182288
+[21:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[21:46:08] [Server thread/WARN]: WildsideBryan moved too quickly! -12.923661436569091,2.475595332948785,-12.533127792265986
+[21:48:39] [Server thread/WARN]: WildsideBryan moved too quickly! -12.722574914545476,3.445484095320211,-12.683602437411537
+[21:49:07] [Server thread/WARN]: WildsideBryan moved too quickly! -12.046330603330716,-2.3326227661138716,-12.27014301073632
+[21:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[21:49:08] [Server thread/WARN]: WildsideBryan moved too quickly! -12.692333582249375,2.7816431731977787,-12.928148273745137
+[21:52:37] [Server thread/WARN]: WildsideBryan moved too quickly! -12.741391569142706,2.542568444154199,-12.70236128183069
+[21:54:09] [Server thread/WARN]: WildsideBryan moved too quickly! -12.349780749897945,-2.30595226243679,-12.311950071177762
+[21:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[21:56:40] [Server thread/WARN]: WildsideBryan moved too quickly! -12.741248621698674,2.542467072793727,-12.70221877227334
+[22:07:07] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:07:07] [Server thread/INFO]: WildsideBryan left the game
+[18:28:17] [User Authenticator #35/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[18:28:17] [Server thread/INFO]: WildsideBryan[/192.168.1.156:57140] logged in with entity id 37520796 at (852.5202635349009, 61.0, 511.84601127451043)
+[18:28:17] [Server thread/INFO]: WildsideBryan joined the game
+[18:41:23] [User Authenticator #36/INFO]: UUID of player GhostedNothing is 705d65d3-4ea3-4861-8005-5cbfde66afe6
+[18:41:23] [Server thread/INFO]: GhostedNothing[/192.168.1.101:40724] logged in with entity id 37522313 at (797.9089165087096, 63.0, 531.6472076239053)
+[18:41:23] [Server thread/INFO]: GhostedNothing joined the game
+[18:53:02] [Server thread/INFO]: [WildsideBryan: Set GhostedNothing's game mode to Creative Mode]
+[18:53:05] [Server thread/INFO]: [WildsideBryan: Set GhostedNothing's game mode to Survival Mode]
+[18:53:13] [Server thread/INFO]: [WildsideBryan: Made GhostedNothing a server operator]
+[18:53:27] [Server thread/INFO]: [WildsideBryan: Made GhostedNothing no longer a server operator]
+[18:53:44] [Server thread/INFO]: [WildsideBryan: Made GhostedNothing a server operator]
+[18:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[19:06:19] [Server thread/WARN]: WildsideBryan moved too quickly! -13.205106772406793,13.07599693663252,-0.7299718235012733
+[19:06:19] [Server thread/WARN]: GhostedNothing moved too quickly! -14.893903126007444,10.941911136756431,0.6775237035185455
+[19:08:35] [Server thread/INFO]: WildsideBryan has made the advancement [Voluntary Exile]
+[19:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+[19:10:55] [Server thread/INFO]: GhostedNothing has made the advancement [Not Today, Thank You]
+[19:17:27] [Server thread/INFO]: WildsideBryan was shot by Pillager
+[19:17:41] [Server thread/INFO]: GhostedNothing has made the advancement [Voluntary Exile]
+[19:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[19:20:54] [Server thread/INFO]: GhostedNothing has made the advancement [Ol' Betsy]
+[19:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[19:28:28] [Server thread/INFO]: GhostedNothing has completed the challenge [Hero of the Village]
+[19:28:28] [Server thread/INFO]: WildsideBryan has completed the challenge [Hero of the Village]
+[19:28:37] [Server thread/INFO]: WildsideBryan was slain by Vex
+[19:28:46] [Server thread/WARN]: WildsideBryan moved too quickly! 621.7706276159129,0.0,1446.7461030490497
+[19:31:46] [Server thread/WARN]: WildsideBryan moved too quickly! 6.733738052336491,-1.2420940973906909,-16.65509022033629
+[19:34:26] [Server thread/WARN]: WildsideBryan moved too quickly! -9.927870439034905,-0.0625,2.300870547125214
+[19:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[19:39:27] [Server thread/WARN]: WildsideBryan moved too quickly! 4.209733253297628,-16.970149518008014,-2.19191343028308
+[19:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[19:48:28] [Server thread/INFO]: GhostedNothing lost connection: Disconnected
+[19:48:28] [Server thread/INFO]: GhostedNothing left the game
+[22:15:51] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.5873573207891,33.1875,-813.9201692922204
+[22:15:51] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.5873573207891,33.1875,-813.9201692922204
+[22:15:51] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.5873573207891,33.1875,-813.9201692922204
+[22:15:51] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.5873573207891,33.1875,-813.9201692922204
+[22:15:51] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.5873573207891,33.1875,-813.9201692922204
+[22:56:09] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:56:09] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[11:01:25] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[11:01:30] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[11:01:35] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[11:01:40] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[11:01:40] [Server thread/INFO]: Saved the game
+[11:01:40] [Server thread/INFO]: Stopping the server
+[11:01:40] [Server thread/INFO]: Stopping server
+[11:01:40] [Server thread/INFO]: Saving players
+[11:01:40] [Server thread/INFO]: Saving worlds
+[11:01:40] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[11:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:01:40] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[11:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[11:01:40] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[11:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[11:01:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:01:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:01:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:01:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:01:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:01:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:01:50] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[11:01:50] [Server thread/INFO]: Loading properties
+[11:01:50] [Server thread/INFO]: Default game type: SURVIVAL
+[11:01:50] [Server thread/INFO]: Generating keypair
+[11:01:50] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[11:01:50] [Server thread/INFO]: Using epoll channel type
+[11:01:51] [Server thread/INFO]: Preparing level "Derpaderp"
+[11:01:51] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:01:51] [Server thread/INFO]: Loaded 6 recipes
+[11:01:52] [Server thread/INFO]: Loaded 811 advancements
+[11:01:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:01:54] [Server thread/INFO]: Preparing spawn area: 0%
+[11:01:54] [Server thread/INFO]: Preparing spawn area: 0%
+[11:01:54] [Server thread/INFO]: Preparing spawn area: 0%
+[11:01:54] [Server thread/INFO]: Preparing spawn area: 0%
+[11:01:55] [Server thread/INFO]: Preparing spawn area: 0%
+[11:01:56] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:01:56] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:01:56] [Server thread/INFO]: Time elapsed: 3510 ms
+[11:01:56] [Server thread/INFO]: Done (5.415s)! For help, type "help"
+[11:01:56] [Server thread/INFO]: Starting GS4 status listener
+[11:01:56] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[11:02:14] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[11:02:19] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[11:02:24] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[11:02:29] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[11:02:30] [Server thread/INFO]: Saved the game
+[11:02:30] [Server thread/INFO]: Stopping the server
+[11:02:30] [Server thread/INFO]: Stopping server
+[11:02:30] [Server thread/INFO]: Saving players
+[11:02:30] [Server thread/INFO]: Saving worlds
+[11:02:30] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[11:02:30] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:02:30] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
