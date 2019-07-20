@@ -8,19 +8,19 @@
   {
     "uuid": "278969e5-352b-4647-9478-93c574c02ea5",
     "name": "Profection",
-    "level": 4,
+    "level": 1,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "705d65d3-4ea3-4861-8005-5cbfde66afe6",
     "name": "GhostedNothing",
-    "level": 4,
+    "level": 1,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "33733f66-5130-48cc-bb42-892335bd365b",
     "name": "Lavcard",
-    "level": 4,
+    "level": 1,
     "bypassesPlayerLimit": false
   }
 ]
