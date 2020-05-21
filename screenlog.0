@@ -4518,3 +4518,59 @@ stop
 [01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[03:01:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:01:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:01:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:01:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:01:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:01:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[03:01:46] [Server thread/INFO]: Loading properties
+[03:01:46] [Server thread/INFO]: Default game type: SURVIVAL
+[03:01:46] [Server thread/INFO]: Generating keypair
+[03:01:46] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[03:01:46] [Server thread/INFO]: Using epoll channel type
+[03:01:47] [Server thread/INFO]: Preparing level "Derpaderp"
+[03:01:47] [Server thread/INFO]: Reloading ResourceManager: Default, item averages v1.2.1.zip, multiplayer sleep v1.0.1.zip, spawning spheres v1.0.0.zip, VanillaTweaks_c666419.zip, armour statues v2.6.2.zip, larger phantoms v1.0.0.zip, more mob heads v2.4.1.zip, redstone rotation wrench v1.0.1.zip, silence mobs v1.0.0.zip, terracotta rotation wrench v1.0.1.zip
+[03:01:47] [Server thread/INFO]: Loaded 6 recipes
+[03:01:47] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[03:01:47] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[03:01:48] [Server thread/INFO]: Loaded 127 custom command functions
+[03:01:48] [Server thread/INFO]: Loaded 913 advancements
+[03:01:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:01:49] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:49] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:49] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:50] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[03:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:51] [Server thread/INFO]: Time elapsed: 2144 ms
+[03:01:51] [Server thread/INFO]: Done (3.955s)! For help, type "help"
+[03:01:51] [Server thread/INFO]: Starting GS4 status listener
+[03:01:51] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+[03:02:33] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[03:02:33] [Server thread/INFO]: WildsideBryan[/192.168.1.100:64129] logged in with entity id 516 at (815.3956128194517, 69.0, 666.4858070067721)
+[03:02:33] [Server thread/INFO]: WildsideBryan joined the game
+[03:09:00] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[03:09:00] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[03:09:34] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[03:09:39] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[03:09:44] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[03:09:49] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[03:09:49] [Server thread/INFO]: Saved the game
+[03:09:49] [Server thread/INFO]: Stopping the server
+[03:09:49] [Server thread/INFO]: Stopping server
+[03:09:49] [Server thread/INFO]: Saving players
+[03:09:49] [Server thread/INFO]: Saving worlds
+[03:09:49] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[03:09:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[03:09:49] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[03:09:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:09:49] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[03:09:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:09:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[03:09:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:09:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
