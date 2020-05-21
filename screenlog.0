@@ -3946,3 +3946,575 @@ stop
 [09:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
 [09:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [09:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:17:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:17:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:17:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:17:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:17:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:17:18] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[09:17:18] [Server thread/INFO]: Loading properties
+[09:17:18] [Server thread/INFO]: Default game type: SURVIVAL
+[09:17:18] [Server thread/INFO]: Generating keypair
+[09:17:18] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[09:17:18] [Server thread/INFO]: Using epoll channel type
+[09:17:19] [Server thread/INFO]: Preparing level "Derpaderp"
+[09:17:19] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, item averages v1.2.1.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, spawning spheres v1.0.0.zip
+[09:17:19] [Server thread/INFO]: Loaded 6 recipes
+[09:17:19] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[09:17:19] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[09:17:19] [Server thread/INFO]: Loaded 76 custom command functions
+[09:17:20] [Server thread/INFO]: Loaded 819 advancements
+[09:17:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:17:21] [Server thread/INFO]: Preparing spawn area: 0%
+[09:17:21] [Server thread/INFO]: Preparing spawn area: 0%
+[09:17:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[09:17:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[09:17:22] [Server thread/INFO]: Time elapsed: 1966 ms
+[09:17:22] [Server thread/INFO]: Done (3.541s)! For help, type "help"
+[09:17:22] [Server thread/INFO]: Starting GS4 status listener
+[09:17:22] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+
+[09:19:55] [Server thread/INFO]: Unknown command
+[09:19:55] [Server thread/INFO]: <--[HERE]
+
+[09:19:55] [Server thread/INFO]: Unknown command
+[09:19:55] [Server thread/INFO]: <--[HERE]
+[22:32:11] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:32:12] [Server thread/INFO]: WildsideBryan[/192.168.1.160:59309] logged in with entity id 477 at (815.7028791166065, 69.0, 665.6181288268444)
+[22:32:12] [Server thread/INFO]: WildsideBryan joined the game
+[03:36:43] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[03:36:43] [Server thread/INFO]: WildsideBryan left the game
+[05:07:36] [User Authenticator #2/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[05:07:36] [Server thread/INFO]: WildsideBryan[/192.168.1.160:61300] logged in with entity id 61054 at (848.1227864148588, 60.5, 599.3044223416856)
+[05:07:36] [Server thread/INFO]: WildsideBryan joined the game
+[05:37:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[05:42:26] [Server thread/WARN]: WildsideBryan moved too quickly! 12.138203556707026,2.2687182070303322,12.562811407488766
+[06:10:46] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[06:10:46] [Server thread/INFO]: WildsideBryan left the game
+[20:27:27] [User Authenticator #3/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[20:27:27] [Server thread/INFO]: WildsideBryan[/192.168.1.160:61964] logged in with entity id 73426 at (815.5910180585238, 69.0, 662.0977352455388)
+[20:27:27] [Server thread/INFO]: WildsideBryan joined the game
+[20:55:19] [Server thread/WARN]: WildsideBryan moved wrongly!
+[21:16:36] [Server thread/WARN]: Fetching packet for removed entity atx['Potato'/83357, l='Derpaderp', x=845.97, y=73.94, z=519.88]
+[21:23:32] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:23:32] [Server thread/INFO]: WildsideBryan left the game
+[22:51:03] [User Authenticator #4/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:51:03] [Server thread/INFO]: WildsideBryan[/192.168.1.160:50559] logged in with entity id 84951 at (835.145133075125, 77.0, 641.554115074428)
+[22:51:03] [Server thread/INFO]: WildsideBryan joined the game
+[22:56:12] [Server thread/WARN]: Fetching packet for removed entity atx['Ink Sac'/85906, l='Derpaderp', x=854.13, y=64.41, z=602.13]
+[00:45:04] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[00:45:04] [Server thread/INFO]: WildsideBryan left the game
+[19:26:48] [User Authenticator #5/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[19:26:49] [Server thread/INFO]: WildsideBryan[/192.168.1.160:50046] logged in with entity id 106393 at (814.9975189519064, 69.0, 665.7129067573018)
+[19:26:49] [Server thread/INFO]: WildsideBryan joined the game
+[19:52:51] [Server thread/INFO]: WildsideBryan lost connection: Timed out
+[19:52:51] [Server thread/INFO]: WildsideBryan left the game
+[19:55:44] [User Authenticator #6/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[19:55:44] [Server thread/INFO]: WildsideBryan[/192.168.1.160:50157] logged in with entity id 110410 at (842.430912699092, 44.0, 514.6639884485269)
+[19:55:44] [Server thread/INFO]: WildsideBryan joined the game
+[22:35:22] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:35:22] [Server thread/INFO]: WildsideBryan left the game
+[20:54:23] [User Authenticator #7/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[20:54:23] [Server thread/INFO]: WildsideBryan[/192.168.1.160:57088] logged in with entity id 137135 at (825.4519971531081, 64.0, 550.5008051049408)
+[20:54:23] [Server thread/INFO]: WildsideBryan joined the game
+[21:54:48] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:54:48] [Server thread/INFO]: WildsideBryan left the game
+[22:49:52] [User Authenticator #8/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:49:52] [Server thread/INFO]: WildsideBryan[/192.168.1.160:57793] logged in with entity id 148458 at (814.1374999880791, 96.0, 553.1374999880792)
+[22:49:52] [Server thread/INFO]: WildsideBryan joined the game
+[23:48:00] [Server thread/WARN]: Fetching packet for removed entity aiu['Experience Orb'/161019, l='Derpaderp', x=107.75, y=119.00, z=75.47]
+[23:50:25] [Server thread/WARN]: Fetching packet for removed entity atx['Rotten Flesh'/161716, l='Derpaderp', x=103.82, y=241.00, z=77.51]
+[23:52:26] [Server thread/WARN]: WildsideBryan moved too quickly! -1.1183228007167827,-18.464286766808016,-1.5470115593785891
+[23:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[00:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:44:05] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[00:44:05] [Server thread/INFO]: WildsideBryan left the game
+[01:28:00] [User Authenticator #9/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:28:00] [Server thread/INFO]: WildsideBryan[/192.168.1.160:58523] logged in with entity id 208690 at (814.4442589221476, 69.0, 663.3722489996219)
+[01:28:00] [Server thread/INFO]: WildsideBryan joined the game
+[01:47:31] [Server thread/WARN]: WildsideBryan moved too quickly! -0.017385935858214907,10.65323521280773,-15.355210540533108
+[04:23:40] [Server thread/WARN]: Fetching packet for removed entity auv['Zombie Pigman'/247490, l='Derpaderp', x=760.51, y=67.55, z=681.51]
+[06:20:53] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[06:20:53] [Server thread/INFO]: WildsideBryan left the game
+[14:15:56] [User Authenticator #10/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[14:15:56] [Server thread/INFO]: WildsideBryan[/192.168.1.160:50376] logged in with entity id 272594 at (834.6999999880791, 167.0, 629.6999999880791)
+[14:15:56] [Server thread/INFO]: WildsideBryan joined the game
+[15:27:31] [Server thread/WARN]: WildsideBryan moved too quickly! -4.175994525436522,-6.628365033368212,16.408514821043354
+[16:05:31] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[16:05:31] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[16:11:51] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[16:11:56] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[16:12:01] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[16:12:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[16:12:07] [Server thread/INFO]: Saved the game
+[16:12:07] [Server thread/INFO]: Stopping the server
+[16:12:07] [Server thread/INFO]: Stopping server
+[16:12:07] [Server thread/INFO]: Saving players
+[16:12:07] [Server thread/INFO]: Saving worlds
+[16:12:07] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[16:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:12:07] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[16:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[16:12:07] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[16:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[16:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:12:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:12:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:12:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:12:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:12:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:12:15] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:12:15] [Server thread/INFO]: Loading properties
+[16:12:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:12:15] [Server thread/INFO]: Generating keypair
+[16:12:15] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[16:12:15] [Server thread/INFO]: Using epoll channel type
+[16:12:15] [Server thread/INFO]: Preparing level "Derpaderp"
+[16:12:15] [Server thread/INFO]: Found new data pack file/VanillaTweaks_c838861.zip, loading it automatically
+[16:12:15] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, item averages v1.2.1.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, spawning spheres v1.0.0.zip, VanillaTweaks_c838861.zip
+[16:12:15] [Server thread/INFO]: Loaded 6 recipes
+[16:12:16] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[16:12:16] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[16:12:16] [Server thread/INFO]: Loaded 76 custom command functions
+[16:12:16] [Server thread/INFO]: Loaded 826 advancements
+[16:12:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:12:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:12:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:12:18] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[16:12:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:12:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[16:12:19] [Server thread/INFO]: Time elapsed: 2455 ms
+[16:12:19] [Server thread/INFO]: Done (3.706s)! For help, type "help"
+[16:12:19] [Server thread/INFO]: Starting GS4 status listener
+[16:12:19] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+
+[16:12:38] [Server thread/INFO]: Unknown command
+[16:12:38] [Server thread/INFO]: <--[HERE]
+
+[16:12:38] [Server thread/INFO]: Unknown command
+[16:12:38] [Server thread/INFO]: <--[HERE]
+
+[16:12:38] [Server thread/INFO]: Unknown command
+[16:12:38] [Server thread/INFO]: <--[HERE]
+[16:13:40] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[16:13:40] [Server thread/INFO]: WildsideBryan[/192.168.1.160:50810] logged in with entity id 496 at (816.3340329599242, 69.0, 666.0154898889191)
+[16:13:40] [Server thread/INFO]: WildsideBryan joined the game
+[16:34:15] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[16:34:15] [Server thread/INFO]: WildsideBryan left the game
+[23:22:06] [User Authenticator #2/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[23:22:06] [Server thread/INFO]: WildsideBryan[/192.168.1.160:54767] logged in with entity id 5376 at (849.8844517013874, 77.0, 574.029752547884)
+[23:22:06] [Server thread/INFO]: WildsideBryan joined the game
+[23:44:24] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[23:44:24] [Server thread/INFO]: WildsideBryan left the game
+[23:45:45] [User Authenticator #3/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[23:45:45] [Server thread/INFO]: WildsideBryan[/192.168.1.160:54985] logged in with entity id 10077 at (852.6632317905114, 56.0, 517.9343144995139)
+[23:45:45] [Server thread/INFO]: WildsideBryan joined the game
+[23:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[00:15:23] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[00:15:23] [Server thread/INFO]: WildsideBryan left the game
+[06:16:37] [User Authenticator #4/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[06:16:37] [Server thread/INFO]: WildsideBryan[/192.168.1.160:49346] logged in with entity id 18400 at (814.8893870179635, 69.0, 663.1145345791438)
+[06:16:37] [Server thread/INFO]: WildsideBryan joined the game
+[06:17:29] [Server thread/WARN]: Fetching packet for removed entity atx['Gold Nugget'/18703, l='Derpaderp', x=764.52, y=68.12, z=681.65]
+[06:22:24] [Server thread/WARN]: WildsideBryan moved too quickly! 0.052256001908176586,0.0,-10.080300552541757
+[06:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[07:01:38] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[07:01:38] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[22:34:34] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[22:34:39] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[22:34:44] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[22:34:49] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[22:34:49] [Server thread/INFO]: Saved the game
+[22:34:49] [Server thread/INFO]: Stopping the server
+[22:34:49] [Server thread/INFO]: Stopping server
+[22:34:49] [Server thread/INFO]: Saving players
+[22:34:49] [Server thread/INFO]: Saving worlds
+[22:34:49] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[22:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:34:49] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[22:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:34:49] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[22:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[22:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:34:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[00:52:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:52:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:52:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:52:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:52:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:52:00] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[00:52:00] [Server thread/INFO]: Loading properties
+[00:52:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:52:00] [Server thread/INFO]: Generating keypair
+[00:52:01] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[00:52:01] [Server thread/INFO]: Using epoll channel type
+[00:52:01] [Server thread/INFO]: Preparing level "Derpaderp"
+[00:52:01] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, item averages v1.2.1.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, spawning spheres v1.0.0.zip, VanillaTweaks_c838861.zip
+[00:52:02] [Server thread/INFO]: Loaded 6 recipes
+[00:52:02] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[00:52:02] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[00:52:04] [Server thread/INFO]: Loaded 76 custom command functions
+[00:52:04] [Server thread/INFO]: Loaded 826 advancements
+[00:52:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:08] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:09] [Server thread/INFO]: Preparing spawn area: 0%
+[00:52:09] [Server thread/INFO]: Time elapsed: 3859 ms
+[00:52:09] [Server thread/INFO]: Done (6.719s)! For help, type "help"
+[00:52:09] [Server thread/INFO]: Starting GS4 status listener
+[00:52:09] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+[18:29:39] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[18:29:40] [Server thread/INFO]: WildsideBryan[/192.168.1.101:54536] logged in with entity id 481 at (815.4149840737653, 69.0, 665.0915484318937)
+[18:29:40] [Server thread/INFO]: WildsideBryan joined the game
+[18:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[18:47:46] [User Authenticator #2/INFO]: UUID of player GhostedNothing is 705d65d3-4ea3-4861-8005-5cbfde66afe6
+[18:47:46] [Server thread/INFO]: GhostedNothing[/192.168.1.100:50686] logged in with entity id 6216 at (850.3336314729648, 63.0, 517.3000000119209)
+[18:47:46] [Server thread/INFO]: GhostedNothing joined the game
+[18:52:13] [Server thread/WARN]: GhostedNothing moved too quickly! 1.0925286182175569,-9.66706724457589,-4.611295443054701
+[18:54:40] [Server thread/INFO]: <GhostedNothing> 1
+[18:54:43] [Server thread/INFO]: <GhostedNothing> 12
+[18:54:45] [Server thread/INFO]: <GhostedNothing> 3
+[18:54:47] [Server thread/INFO]: <GhostedNothing> 4
+[18:54:48] [Server thread/INFO]: <GhostedNothing> 5
+[18:54:49] [Server thread/INFO]: <GhostedNothing> 6
+[18:54:49] [Server thread/INFO]: <GhostedNothing> 7
+[18:54:51] [Server thread/INFO]: <GhostedNothing> 8
+[18:54:52] [Server thread/INFO]: <GhostedNothing> 9
+[18:54:57] [Server thread/INFO]: <GhostedNothing> 1t0
+[18:55:00] [Server thread/INFO]: <GhostedNothing> 102
+[18:55:02] [Server thread/INFO]: <GhostedNothing> 11
+[18:55:05] [Server thread/INFO]: <GhostedNothing> 12
+[18:55:10] [Server thread/INFO]: <GhostedNothing> 14
+[18:55:12] [Server thread/INFO]: <GhostedNothing> 15
+[18:55:14] [Server thread/INFO]: <GhostedNothing> 16
+[18:55:15] [Server thread/INFO]: <GhostedNothing> 17
+[18:55:17] [Server thread/INFO]: <GhostedNothing> 18
+[18:55:19] [Server thread/INFO]: <GhostedNothing> 19
+[18:55:23] [Server thread/INFO]: <GhostedNothing> 20
+[18:55:25] [Server thread/INFO]: <GhostedNothing> 21
+[18:55:37] [Server thread/INFO]: <GhostedNothing> HERE I COME
+[18:59:45] [Server thread/INFO]: <WildsideBryan> 20
+[18:59:48] [Server thread/INFO]: <WildsideBryan> 19
+[18:59:49] [Server thread/INFO]: <WildsideBryan> 18
+[18:59:51] [Server thread/INFO]: <WildsideBryan> 17
+[18:59:53] [Server thread/INFO]: <WildsideBryan> 16
+[18:59:54] [Server thread/INFO]: <WildsideBryan> 15
+[18:59:56] [Server thread/INFO]: <WildsideBryan> 14
+[18:59:58] [Server thread/INFO]: <WildsideBryan> 13
+[18:59:59] [Server thread/INFO]: <WildsideBryan> 12
+[19:00:01] [Server thread/INFO]: <WildsideBryan> 11
+[19:00:02] [Server thread/INFO]: <WildsideBryan> 10
+[19:00:03] [Server thread/INFO]: <WildsideBryan> 9
+[19:00:04] [Server thread/INFO]: <WildsideBryan> 8
+[19:00:05] [Server thread/INFO]: <WildsideBryan> 7
+[19:00:06] [Server thread/INFO]: <WildsideBryan> 6
+[19:00:08] [Server thread/INFO]: <WildsideBryan> 5
+[19:00:10] [Server thread/INFO]: <WildsideBryan> 4t
+[19:00:13] [Server thread/INFO]: <WildsideBryan> 3
+[19:00:15] [Server thread/INFO]: <WildsideBryan> 2
+[19:00:19] [Server thread/INFO]: <WildsideBryan> 1
+[19:00:39] [Server thread/INFO]: <WildsideBryan> I"M GOING TO KILL YOU
+[19:04:03] [Server thread/WARN]: Fetching packet for removed entity atx['Cactus'/10185, l='Derpaderp', x=856.45, y=62.05, z=547.99]
+[19:12:12] [Server thread/WARN]: WildsideBryan moved too quickly! -3.6920449218492877,7.859927149348806,16.049035205969744
+[19:16:54] [Server thread/INFO]: <GhostedNothing> 22
+[19:17:11] [Server thread/INFO]: <GhostedNothing> 30 HERE I COME
+[19:19:41] [Server thread/INFO]: <WildsideBryan> 20
+[19:19:48] [Server thread/INFO]: <WildsideBryan> 15
+[19:19:58] [Server thread/INFO]: <WildsideBryan> 10
+[19:20:05] [Server thread/INFO]: <WildsideBryan> 5
+[19:20:07] [Server thread/INFO]: <WildsideBryan> 4
+[19:20:09] [Server thread/INFO]: <WildsideBryan> 3
+[19:20:11] [Server thread/INFO]: <WildsideBryan> 2
+[19:20:15] [Server thread/INFO]: <WildsideBryan> 1
+[19:20:19] [Server thread/INFO]: <WildsideBryan> ready or not
+[19:20:24] [Server thread/INFO]: <WildsideBryan> here I come
+[19:20:29] [Server thread/INFO]: <WildsideBryan> ha ha ha ha
+[19:24:19] [Server thread/INFO]: <GhostedNothing> 25
+[19:24:24] [Server thread/INFO]: <GhostedNothing> 20
+[19:24:29] [Server thread/INFO]: <GhostedNothing> 15
+[19:24:33] [Server thread/INFO]: <GhostedNothing> 10
+[19:24:39] [Server thread/INFO]: <GhostedNothing> 5
+[19:24:43] [Server thread/INFO]: <GhostedNothing> 0
+[19:24:55] [Server thread/INFO]: <GhostedNothing> HEREI COME READY OR not
+[19:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[19:37:18] [Server thread/WARN]: GhostedNothing moved too quickly! 4.779660599485737,3.04358310308416,-16.442506186669107
+[19:37:18] [Server thread/WARN]: WildsideBryan moved too quickly! -8.219622092187251,1.3912712969521408,16.197893537310847
+[19:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[19:38:20] [Server thread/INFO]: <WildsideBryan> 671 102 1904
+[19:40:13] [Server thread/INFO]: <GhostedNothing> W
+[19:41:20] [Server thread/WARN]: Skipping Entity with id 
+[19:42:23] [Server thread/WARN]: GhostedNothing moved too quickly! -14.669021886982136,-2.1386608071066036,9.465371504633481
+[19:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4733ms or 94 ticks behind
+[19:43:14] [Server thread/INFO]: [WildsideBryan: Teleported GhostedNothing to WildsideBryan]
+[19:43:14] [Server thread/WARN]: GhostedNothing moved too quickly! 2691.099625507251,0.05858589142567894,1299.3322130359147
+[19:57:24] [Server thread/WARN]: GhostedNothing moved too quickly! -12.130435903000375,-2.1932891097287524,-12.544377541722383
+[20:03:51] [Server thread/INFO]: GhostedNothing was slain by Vex
+[20:04:44] [Server thread/INFO]: [WildsideBryan: Teleported GhostedNothing to WildsideBryan]
+[20:07:35] [Server thread/INFO]: GhostedNothing was slain by Vindicator
+[20:07:44] [Server thread/WARN]: GhostedNothing moved too quickly! -652.5399496367043,1.0000002000000023,-1501.3865719068585
+[20:07:44] [Server thread/INFO]: [WildsideBryan: Teleported GhostedNothing to WildsideBryan]
+[20:07:44] [Server thread/WARN]: GhostedNothing moved too quickly! 597.9826870296816,-1.0000002000000023,1501.573244315552
+[20:13:45] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/48167, l='Derpaderp', x=844.58, y=69.68, z=515.46]
+[20:13:45] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/48167, l='Derpaderp', x=844.58, y=69.68, z=515.46]
+[20:17:30] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/48987, l='Derpaderp', x=844.65, y=69.54, z=515.47]
+[20:17:30] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/48987, l='Derpaderp', x=844.65, y=69.54, z=515.47]
+[20:19:28] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/49348, l='Derpaderp', x=844.45, y=69.51, z=515.39]
+[20:19:28] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/49348, l='Derpaderp', x=844.45, y=69.51, z=515.39]
+[20:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[20:23:48] [Server thread/INFO]: WildsideBryan fell from a high place
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -10.07300845327616,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -11.18405438862834,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -12.312095799580774,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -13.456902728888778,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -14.618351429466358,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -15.796277821856066,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -16.99048095700762,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -18.200725713171792,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -19.426745334548258,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -20.668244373646047,0.0,-0.008938408410884002
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -21.924901220894185,0.0,-0.007949091681055287
+[20:30:09] [Server thread/WARN]: Boat (vehicle of WildsideBryan) moved too quickly! -23.196370363868084,0.0,-0.004890463403890211
+[20:37:27] [Server thread/INFO]: GhostedNothing fell from a high place
+[20:37:27] [Server thread/WARN]: GhostedNothing moved too quickly! 4.8525073303767385,-5.09543032919656,-16.36592400877828
+[20:37:32] [Server thread/WARN]: GhostedNothing was kicked for floating too long!
+[20:37:32] [Server thread/INFO]: GhostedNothing lost connection: Flying is not enabled on this server
+[20:37:32] [Server thread/INFO]: GhostedNothing left the game
+[20:37:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d999f7d[id=<null>,name=GhostedNothing,properties={},legacy=false] (/192.168.1.100:50761) lost connection: Disconnected
+[20:38:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@c93ec82[id=<null>,name=GhostedNothing,properties={},legacy=false] (/192.168.1.100:50763) lost connection: Disconnected
+[20:38:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d650fc1[id=<null>,name=GhostedNothing,properties={},legacy=false] (/192.168.1.100:50765) lost connection: Disconnected
+[20:39:14] [User Authenticator #3/INFO]: UUID of player GhostedNothing is 705d65d3-4ea3-4861-8005-5cbfde66afe6
+[20:39:14] [Server thread/INFO]: GhostedNothing[/192.168.1.100:51119] logged in with entity id 56299 at (2286.6192343816365, 66.85003412195564, -927.2817863799265)
+[20:39:14] [Server thread/INFO]: GhostedNothing joined the game
+[20:39:30] [Server thread/INFO]: [WildsideBryan: Teleported GhostedNothing to WildsideBryan]
+[20:39:30] [Server thread/WARN]: GhostedNothing moved too quickly! 1412.3765310681974,-6.0,-1431.4552272201945
+[20:39:30] [Server thread/WARN]: GhostedNothing moved too quickly! 1412.3765310681974,-6.0,-1431.4552272201945
+[20:47:27] [Server thread/WARN]: WildsideBryan moved too quickly! -16.320609125003557,-6.498504675357935,-0.9745470246437549
+[20:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[20:52:10] [Server thread/INFO]: WildsideBryan experienced kinetic energy
+[20:52:31] [Server thread/INFO]: [WildsideBryan: Teleported WildsideBryan to GhostedNothing]
+[20:52:31] [Server thread/WARN]: WildsideBryan moved too quickly! 284.5228010855841,8.0,-99.71531872756697
+[20:53:47] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[20:53:47] [Server thread/INFO]: WildsideBryan left the game
+[20:53:52] [Server thread/INFO]: GhostedNothing lost connection: Disconnected
+[20:53:52] [Server thread/INFO]: GhostedNothing left the game
+[20:28:55] [User Authenticator #4/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[20:28:55] [Server thread/INFO]: WildsideBryan[/192.168.1.160:57548] logged in with entity id 71482 at (816.299999974668, 69.0000002, 667.299999974668)
+[20:28:55] [Server thread/INFO]: WildsideBryan joined the game
+[20:29:07] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[20:29:07] [Server thread/INFO]: WildsideBryan left the game
+[21:09:17] [User Authenticator #5/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[21:09:17] [Server thread/INFO]: WildsideBryan[/192.168.1.160:57659] logged in with entity id 71624 at (816.299999974668, 69.0000002, 667.299999974668)
+[21:09:17] [Server thread/INFO]: WildsideBryan joined the game
+[21:09:20] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:09:20] [Server thread/INFO]: WildsideBryan left the game
+[22:27:13] [User Authenticator #6/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:27:13] [Server thread/INFO]: WildsideBryan[/192.168.1.160:64845] logged in with entity id 71643 at (816.299999974668, 69.0000002, 667.299999974668)
+[22:27:13] [Server thread/INFO]: WildsideBryan joined the game
+[22:27:17] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:27:17] [Server thread/INFO]: WildsideBryan left the game
+[22:27:57] [User Authenticator #7/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[22:27:57] [Server thread/INFO]: WildsideBryan[/192.168.1.160:64902] logged in with entity id 71663 at (816.299999974668, 69.0000002, 667.299999974668)
+[22:27:57] [Server thread/INFO]: WildsideBryan joined the game
+[22:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[22:41:49] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[22:41:49] [Server thread/INFO]: WildsideBryan left the game
+[02:05:28] [User Authenticator #8/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[02:05:28] [Server thread/INFO]: WildsideBryan[/192.168.1.160:64316] logged in with entity id 78880 at (815.6280092484933, 69.0, 665.1504566727136)
+[02:05:28] [Server thread/INFO]: WildsideBryan joined the game
+[02:07:29] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[02:07:29] [Server thread/INFO]: WildsideBryan left the game
+[01:42:56] [User Authenticator #9/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:42:56] [Server thread/INFO]: WildsideBryan[/192.168.1.160:58695] logged in with entity id 79271 at (857.8996098068346, 63.0, 504.1026529968524)
+[01:42:56] [Server thread/INFO]: WildsideBryan joined the game
+[01:43:59] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[01:43:59] [Server thread/INFO]: WildsideBryan left the game
+[21:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6999ms or 139 ticks behind
+[21:04:04] [User Authenticator #10/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[21:04:04] [Server thread/INFO]: WildsideBryan[/192.168.1.100:56884] logged in with entity id 79768 at (118.30000001192093, 128.0, 80.30000001192093)
+[21:04:04] [Server thread/INFO]: WildsideBryan joined the game
+[21:11:57] [Server thread/WARN]: Fetching packet for removed entity atx['Carrot'/82031, l='Derpaderp', x=844.52, y=69.74, z=515.28]
+[21:12:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[21:13:01] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[21:13:01] [Server thread/INFO]: WildsideBryan left the game
+[11:11:48] [User Authenticator #11/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[11:11:48] [Server thread/INFO]: WildsideBryan[/192.168.1.100:52738] logged in with entity id 82223 at (839.8157245576308, 83.0, 516.8586372230683)
+[11:11:48] [Server thread/INFO]: WildsideBryan joined the game
+[11:27:25] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[11:27:25] [Server thread/INFO]: WildsideBryan left the game
+[02:09:39] [User Authenticator #12/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[02:09:39] [Server thread/INFO]: WildsideBryan[/192.168.1.160:56019] logged in with entity id 85525 at (879.3064536029997, 63.0, 663.1446359822505)
+[02:09:39] [Server thread/INFO]: WildsideBryan joined the game
+[02:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[02:32:18] [Server thread/WARN]: Fetching packet for removed entity atx['Rotten Flesh'/96361, l='Derpaderp', x=100.51, y=241.00, z=80.18]
+[02:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[02:34:06] [Server thread/WARN]: WildsideBryan moved too quickly! -8.10007982749866,-9.28081947217774,-12.349279321750856
+[02:44:56] [Server thread/WARN]: Fetching packet for removed entity atx['Kelp'/100516, l='Derpaderp', x=834.68, y=58.26, z=514.53]
+[02:44:56] [Server thread/WARN]: Fetching packet for removed entity atx['Kelp'/100514, l='Derpaderp', x=840.36, y=58.24, z=514.27]
+[02:48:54] [Server thread/INFO]: WildsideBryan was blown up by Creeper
+[02:49:13] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[02:49:13] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[22:39:54] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[22:39:59] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[22:40:04] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[22:40:10] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[22:40:10] [Server thread/INFO]: Saved the game
+[22:40:10] [Server thread/INFO]: Stopping the server
+[22:40:10] [Server thread/INFO]: Stopping server
+[22:40:10] [Server thread/INFO]: Saving players
+[22:40:10] [Server thread/INFO]: Saving worlds
+[22:40:10] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[22:40:10] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:40:10] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:30:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:30:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:30:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:30:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:30:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:30:47] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[23:30:47] [Server thread/INFO]: Loading properties
+[23:30:47] [Server thread/INFO]: Default game type: SURVIVAL
+[23:30:47] [Server thread/INFO]: Generating keypair
+[23:30:48] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[23:30:48] [Server thread/INFO]: Using epoll channel type
+[23:30:48] [Server thread/INFO]: Preparing level "Derpaderp"
+[23:30:48] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, item averages v1.2.1.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, spawning spheres v1.0.0.zip, VanillaTweaks_c838861.zip
+[23:30:48] [Server thread/INFO]: Loaded 6 recipes
+[23:30:49] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[23:30:49] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[23:30:49] [Server thread/INFO]: Loaded 76 custom command functions
+[23:30:49] [Server thread/INFO]: Loaded 826 advancements
+[23:30:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:30:51] [Server thread/INFO]: Preparing spawn area: 0%
+[23:30:51] [Server thread/INFO]: Preparing spawn area: 0%
+[23:30:51] [Server thread/INFO]: Preparing spawn area: 0%
+[23:30:51] [Server thread/INFO]: Preparing spawn area: 0%
+[23:30:51] [Server thread/INFO]: Time elapsed: 1697 ms
+[23:30:51] [Server thread/INFO]: Done (3.708s)! For help, type "help"
+[23:30:51] [Server thread/INFO]: Starting GS4 status listener
+[23:30:51] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+[00:33:57] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[00:33:58] [Server thread/INFO]: WildsideBryan[/192.168.1.100:59331] logged in with entity id 589 at (895.4712473016903, 11.0, 583.5224834550536)
+[00:33:58] [Server thread/INFO]: WildsideBryan joined the game
+[00:41:14] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[00:41:14] [Server thread/INFO]: WildsideBryan left the game
+[00:42:52] [User Authenticator #2/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[00:42:52] [Server thread/INFO]: WildsideBryan[/192.168.1.100:59438] logged in with entity id 2164 at (816.1272982111653, 69.0, 662.987499354993)
+[00:42:52] [Server thread/INFO]: WildsideBryan joined the game
+[00:43:41] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[00:43:41] [Server thread/INFO]: WildsideBryan left the game
+[16:41:08] [User Authenticator #3/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[16:41:08] [Server thread/INFO]: WildsideBryan[/192.168.1.100:56118] logged in with entity id 2287 at (816.1272982111653, 69.0, 662.987499354993)
+[16:41:08] [Server thread/INFO]: WildsideBryan joined the game
+[17:00:51] [Server thread/WARN]: WildsideBryan moved too quickly! 1751.4656164439057,33.233632006042484,-813.3742976106066
+[17:00:54] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:00:54] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[17:02:37] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[17:02:37] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[13:09:40] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[13:09:45] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[13:09:50] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[13:09:55] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[13:09:55] [Server thread/INFO]: Saved the game
+[13:09:55] [Server thread/INFO]: Stopping the server
+[13:09:55] [Server thread/INFO]: Stopping server
+[13:09:55] [Server thread/INFO]: Saving players
+[13:09:55] [Server thread/INFO]: Saving worlds
+[13:09:55] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[13:09:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:09:55] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[13:09:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[13:09:55] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[13:09:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:09:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:09:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[13:09:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:22:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:22:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:22:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:22:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:22:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:22:21] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[01:22:21] [Server thread/INFO]: Loading properties
+[01:22:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:22:21] [Server thread/INFO]: Generating keypair
+[01:22:21] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[01:22:21] [Server thread/INFO]: Using epoll channel type
+[01:22:21] [Server thread/INFO]: Preparing level "Derpaderp"
+[01:22:21] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, item averages v1.2.1.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, spawning spheres v1.0.0.zip, VanillaTweaks_c838861.zip
+[01:22:22] [Server thread/INFO]: Loaded 6 recipes
+[01:22:22] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[01:22:22] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[01:22:23] [Server thread/INFO]: Loaded 76 custom command functions
+[01:22:23] [Server thread/INFO]: Loaded 826 advancements
+[01:22:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:22:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:22:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:22:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:22:24] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:22:25] [Server thread/INFO]: Time elapsed: 1879 ms
+[01:22:25] [Server thread/INFO]: Done (3.565s)! For help, type "help"
+[01:22:25] [Server thread/INFO]: Starting GS4 status listener
+[01:22:25] [Query Listener #1/INFO]: Query running on 192.168.1.101:25565
+[01:29:08] [User Authenticator #1/INFO]: UUID of player WildsideBryan is a96cb956-c5b4-476a-bc0b-7bf83eace2b7
+[01:29:08] [Server thread/INFO]: WildsideBryan[/192.168.1.100:63351] logged in with entity id 476 at (815.8717645144071, 69.0, 663.2461821083506)
+[01:29:08] [Server thread/INFO]: WildsideBryan joined the game
+[01:35:46] [Server thread/INFO]: WildsideBryan lost connection: Disconnected
+[01:35:46] [Server thread/INFO]: WildsideBryan left the game
+say SERVER SHUTTING DOWN IN 15 SECONDS...
+[01:38:30] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 15 SECONDS...
+say SERVER SHUTTING DOWN IN 10 SECONDS...
+[01:38:35] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 10 SECONDS...
+say SERVER SHUTTING DOWN IN 5 SECONDS...
+[01:38:40] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN IN 5 SECONDS...
+save-all
+[01:38:45] [Server thread/INFO]: Saving the game (this may take a moment!)
+stop
+[01:38:45] [Server thread/INFO]: Saved the game
+[01:38:45] [Server thread/INFO]: Stopping the server
+[01:38:45] [Server thread/INFO]: Stopping server
+[01:38:45] [Server thread/INFO]: Saving players
+[01:38:45] [Server thread/INFO]: Saving worlds
+[01:38:45] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_nether
+[01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:45] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:the_end
+[01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:45] [Server thread/INFO]: Saving chunks for level 'Derpaderp'/minecraft:overworld
+[01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved
+[01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (Derpaderp): All chunks are saved

@@ -251,6 +251,13 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500",
+      "has_block": "2019-11-14 23:42:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-02-27 00:38:47 -0500"
@@ -1314,6 +1321,13 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500",
+      "has_block": "2019-12-01 19:51:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-02-27 03:46:45 -0500"
@@ -1717,6 +1731,13 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-04-20 01:13:47 -0400"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500",
+      "has_block": "2019-11-09 16:13:40 -0500"
     },
     "done": true
   },
@@ -2616,7 +2637,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-11-03 04:41:55 -0500"
+      "tick": "2020-05-21 01:29:35 -0400"
     },
     "done": false
   },
@@ -3237,6 +3258,13 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500",
+      "has_block": "2019-11-16 06:40:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2019-07-06 15:32:45 -0400"
@@ -3429,6 +3457,13 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500",
+      "has_block": "2019-11-09 16:13:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2019-03-14 12:44:42 -0400"
@@ -3522,6 +3557,13 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2019-07-06 19:59:32 -0400"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500",
+      "has_block": "2019-11-09 16:13:40 -0500"
     },
     "done": true
   },
@@ -3746,6 +3788,7 @@
       "cooked_porkchop": "2019-02-26 23:56:44 -0500",
       "chicken": "2019-05-06 08:21:55 -0400",
       "cooked_mutton": "2019-03-02 14:27:39 -0500",
+      "sweet_berries": "2020-02-02 16:48:33 -0500",
       "cooked_beef": "2019-02-27 00:10:34 -0500",
       "chorus_fruit": "2019-05-03 18:50:37 -0400",
       "baked_potato": "2019-02-27 01:27:42 -0500",
@@ -4422,6 +4465,12 @@
       "has_at_least_9_slime_ball": "2019-03-14 12:41:47 -0400"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
+    "criteria": {
+      "has_dye": "2019-11-09 16:13:40 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
